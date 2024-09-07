@@ -1,0 +1,832 @@
+[
+  {
+    "questionText": "Change can't be eliminated, so managers must learn to ________ successfully.",
+    "multipleChoice": [ "avoid it", "ignore it", "work around it", "manage it" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following is an example of a structural organizational change?",
+    "multipleChoice": [ "changing employee attitudes", "changing work practices", "purchasing new work equipment", "changing managerial span of control" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following is an example of a technology change within an organization?",
+    "multipleChoice": [ "forming teams to complete tasks", "workers using new software", "workers wanting to telecommute", "workers wanting flexible hours" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following is an organizational 'people change?'",
+    "multipleChoice": [ "work methods that people use", "authority relationships between people", "attitudes that people have", "job redesign" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following is an organizational structure change?",
+    "multipleChoice": [ "the building of a new workshop", "resentment of bosses by employees", "a new way to package chocolate cake", "changing who reports to whom" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following is an organizational technology change?",
+    "multipleChoice": [ "purchase of a new backhoe", "employees expecting a raise", "employees accepting a new schedule", "widening of span of control" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The Patient Protection and Affordable Care Act is an example of which one of the following forms of environmental change?",
+    "multipleChoice": [ "internal", "technology", "government laws and regulations", "labor markets" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Falling interest rates are an example of what kind of external force that causes a company to need to make an organizational change?",
+    "multipleChoice": [ "marketplace competition forces", "government laws and regulations", "labor market forces", "economic forces" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following is an internal force that can cause a company to make an organizational change?",
+    "multipleChoice": [ "a new ad campaign", "new safety requirements", "a new rival company", "new pollution laws" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following is an external force that would cause a company to make an organizational change?",
+    "multipleChoice": [ "an organization-wide restructuring", "the naming of a new CEO", "a widening span of control for managers", "a booming economy" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "To compete with rival company X, company Y changes its management structure. This is an example of ________.",
+    "multipleChoice": [ "an internal change causing an external change", "an internal change causing another internal change", "an external change causing another external change", "an external change causing an internal change" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "After a thorough company-wide self-examination, company Y decides to set up work teams. This is an example of ________.",
+    "multipleChoice": [ "an internal change causing an external change", "an internal change causing another internal change", "an external change causing another external change", "an external change causing an internal change" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A company's workers asking to be able to celebrate Mexican holidays is an example of ________ force for change.",
+    "multipleChoice": [ "an external workforce composition", "an internal workforce composition", "an external tactic", "an internal strategy" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Labor strikes are an example of what change factor that may encourage a change in management thinking and practices?",
+    "multipleChoice": [ "workforce composition", "equipment", "employee attitude", "strategy" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "In organizations, people who act as catalysts and assume the responsibility for managing the change process are called ________.",
+    "multipleChoice": [ "managers", "change agents", "change managers", "nonmanagerial employees" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Outside consultants generally try to initiate ________ changes than internal managers.",
+    "multipleChoice": [ "more drastic", "less drastic", "more cautious", "fewer" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The 'calm waters' metaphor envisions an organization as ________.",
+    "multipleChoice": [ "a large ship on a roiling sea", "a large ship on a calm sea", "a small raft on a calm sea", "a small raft on a roiling sea" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The 'white-water rapids' metaphor envisions an organization as ________.",
+    "multipleChoice": [ "a large ship on a roiling sea", "a large ship on a calm sea", "a small raft on a calm river", "a small raft on a raging river" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The 'white-water rapids' metaphor sees change as ________.",
+    "multipleChoice": [ "an occasional occurrence", "the natural state of things", "an unpleasant interruption of the normal calm", "something that must be eliminated" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Kurt Lewin's 'calm waters' metaphor sees change as ________.",
+    "multipleChoice": [ "an unusual event", "an everyday event", "unfortunate", "avoidable" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The first step in Lewin's three-step description of the change process involves ________.",
+    "multipleChoice": [ "freezing the new state", "changing to a new state", "unfreezing the status quo", "changing to a new status quo" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The final step in Lewin's three-step description of the change process is ________.",
+    "multipleChoice": [ "freezing the new state", "unfreezing the status quo", "changing to a new state", "unfreezing the new state" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "According to Lewin, which one of the following is a force that might overcome inertia and unfreeze the status quo?",
+    "multipleChoice": [ "increase restraining forces", "maintain restraining forces", "decrease driving forces", "increase driving forces" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "According to Lewin, which one of the following is the objective of refreezing?",
+    "multipleChoice": [ "to stabilize the new situation", "to promote movement away from existing equilibrium", "to eliminate the need for future change", "to direct behavior away from the status quo" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "According to Lewin, which one of the following is the best way to unfreeze the status quo?",
+    "multipleChoice": [ "increase restraining forces", "decrease restraining forces and increase driving forces", "decrease driving forces", "increase restraining forces and increase driving forces" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The goal in Lewin's 'calm waters' metaphor is ________.",
+    "multipleChoice": [ "to change the current equilibrium state", "to reach a state of constant change", "to eliminate the equilibrium state", "to establish a new equilibrium state" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Today, Lewin's 'calm waters' metaphor is increasingly thought to be ________.",
+    "multipleChoice": [ "illogical", "an apt description of the current situation", "a blueprint for the future", "obsolete" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which phenomenon in today's business climate has made the 'white-water rapids' metaphor popular?",
+    "multipleChoice": [ "reduced competition", "corporations that are too powerful", "organizations that resist change", "constant and chaotic change" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Writing laws to reward industries to reduce carbon emissions in an effort to combat global climate change can be best described as an example of which one of the following?",
+    "multipleChoice": [ "unfreezing the status quo", "freezing a change into place", "implementing change", "refreezing the status quo" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Kurt Lewin originated some of his most important group dynamics ideas by studying which one of the following?",
+    "multipleChoice": [ "family vacations during World War I", "force fields in physics", "how football has blocking and driving forces", "family food habits during World War II" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Lewin's force field analysis identified ________ forces that compete when people try to achieve a goal.",
+    "multipleChoice": [
+      "physical push-and-pull",
+      "driving and blocking",
+      "enormous",
+      "magnetic"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "In terms of change, Lewin's force field analysis might see ________ as a driving force.",
+    "multipleChoice": [
+      "fear of change",
+      "inertia",
+      "reward for change",
+      "difficulty of change"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Signing up for a college course that varies in length from 2 to 30 weeks with classes that last from 20 minutes to 3 hours is an example of which metaphor of change?",
+    "multipleChoice": [
+      "three-step model",
+      "calm-waters",
+      "white-water rapids",
+      "force-field"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Organization development (OD) helps employees ________.",
+    "multipleChoice": [
+      "deal with planned change",
+      "deal with unplanned change",
+      "avoid unpleasant change",
+      "avoid all types of change"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Organization development can be viewed as an attempt to change an organization's ________.",
+    "multipleChoice": [
+      "structure",
+      "financial goals",
+      "culture",
+      "status"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The most popular OD efforts involve cooperation and these kinds of activities.",
+    "multipleChoice": [
+      "individual interactions",
+      "group interactions",
+      "group assessment",
+      "individual assessment"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following is NOT a common method of organization development (OD)?",
+    "multipleChoice": [
+      "team-building",
+      "process consultation",
+      "positive feedback",
+      "survey feedback"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "In process consultation, ________ observe and analyze an organization to find ways to improve interpersonal processes.",
+    "multipleChoice": [
+      "outside consultants",
+      "top-level managers",
+      "ordinary employees",
+      "company efficiency specialists"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The primary goal of the OD method called teambuilding is to ________.",
+    "multipleChoice": [
+      "increase efficiency",
+      "increase trust and openness",
+      "identify troublemakers",
+      "play games such as volleyball to build morale"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following is a term borrowed from the physical sciences that accurately describes people's resistance to change?",
+    "multipleChoice": [
+      "energy",
+      "uncertainty",
+      "inertia",
+      "momentum"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Uncertainty causes people to resist change because it ________.",
+    "multipleChoice": [
+      "replaces the unknown with the known",
+      "replaces the known with the unknown",
+      "increases performance expectations of an employee",
+      "decreases performance expectations of people"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following is NOT a common reason that people resist change?",
+    "multipleChoice": [
+      "habit",
+      "uncertainty",
+      "concern over personal loss",
+      "overconfidence"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Older workers tend to resist change more than younger workers because they ________.",
+    "multipleChoice": [
+      "have less invested in the current system",
+      "have more invested in the current system",
+      "have confidence in themselves",
+      "have less to lose"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Workers seem to reject a simple new manufacturing method that has been shown to increase company sales because they say, 'That is not the way we do things around here.' These workers are most likely to be resisting change due to which one of the following?",
+    "multipleChoice": [
+      "uncertainty",
+      "habit",
+      "conflicts with company goals",
+      "fear of the unknown"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which kind of resistance to change is most likely to be beneficial to a company?",
+    "multipleChoice": [
+      "conflict with company goals",
+      "uncertainty",
+      "habit",
+      "fear of losing status or possessions"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Employees at a company that emphasizes its personalized customer service protest a change that allows an automatic answering system to answer phone inquiries, claiming that the company is becoming 'depersonalized.' They are most likely resisting change due to ________.",
+    "multipleChoice": [
+      "uncertainty",
+      "habit",
+      "conflicts with company goals",
+      "fear of losing status"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Workers in a company are complaining about a new employee evaluation system. Which kind of resistance to change are they demonstrating?",
+    "multipleChoice": [
+      "resistance out of habit",
+      "resistance because of uncertainty",
+      "resistance to protect company goals",
+      "resistance to protect market share"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Managers typically implement programs to reduce resistance to change when employees ________ in some way.",
+    "multipleChoice": [
+      "become uncomfortable",
+      "are challenged",
+      "become self-satisfied",
+      "become dysfunctional"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "A technique that helps employees deal with change that appeals to their sense of logic is ________.",
+    "multipleChoice": [
+      "manipulation",
+      "education and communication",
+      "coercion or threats to employees",
+      "co-optation"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A technique that helps employees deal with change that includes them in the decision-making process is ________.",
+    "multipleChoice": [
+      "education and communication",
+      "negotiation",
+      "participation",
+      "coercion"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "If several efforts between a manager and an employee for reducing resistance to change fail to allay employee fears, a manager might take him- or herself out of the process and try this.",
+    "multipleChoice": [
+      "facilitation and support",
+      "negotiation between parties",
+      "manipulation",
+      "participation"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "When an entire workforce threatens to go on strike to protest a work change, managers might try this method of reducing resistance to change.",
+    "multipleChoice": [
+      "education and communication",
+      "participation",
+      "facilitation and support",
+      "negotiation"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "When managers threaten to fire workers unless they agree to go along with new company policies, they are using which one of the following?",
+    "multipleChoice": [
+      "negotiation",
+      "coercion",
+      "manipulation",
+      "education and communication"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which method of reducing resistance to change is most likely to backfire on the manager who uses it?",
+    "multipleChoice": [
+      "education and communication",
+      "negotiation",
+      "participation",
+      "manipulation"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "When a manager attempts to covertly influence others by distorting the facts, he is using which one of the following methods of reducing resistance to change?",
+    "multipleChoice": [
+      "manipulation",
+      "education",
+      "coercion",
+      "negotiation"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which method of reducing resistance to change is most likely to backfire on the manager who uses it?",
+    "multipleChoice": [
+      "education and communication",
+      "negotiation",
+      "participation",
+      "manipulation"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Stress in the workplace is an adverse reaction that people have in response to ________.",
+    "multipleChoice": [
+      "lack of ambition",
+      "demands, constraints, and opportunities",
+      "having too much confidence in oneself",
+      "too much ambition"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "An actor on stage getting 'up' for a performance is an example of which one of the following?",
+    "multipleChoice": [
+      "a negative aspect of stress",
+      "a positive aspect of stress",
+      "a condition not related to stress",
+      "both a positive and a negative aspect of stress"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Stress is most frequently associated with ________ only.",
+    "multipleChoice": [
+      "demands and constraints",
+      "opportunities and habits",
+      "opportunities and fear",
+      "demands and pressures"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which statement is correct?",
+    "multipleChoice": [
+      "Stress is always bad.",
+      "Stress can be bad or good.",
+      "Stress is always good.",
+      "Stress can never be good."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A constraint causes stress because it ________.",
+    "multipleChoice": [
+      "helps you achieve your goal",
+      "prevents you from achieving your goal",
+      "helps you define your goal",
+      "prevents you from defining your goal"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Potential stress can become actual stress when the outcome of an event is uncertain and ________.",
+    "multipleChoice": [
+      "not important to the individual",
+      "hard for the individual to understand",
+      "occurs on a regular basis",
+      "important to the individual"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Potential stress can become actual stress when the outcome of an event is both ________ and important to the individual.",
+    "multipleChoice": [
+      "uncertain",
+      "certain",
+      "meaningful",
+      "significant"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "In Japan, the term used to describe death from overwork is ________.",
+    "multipleChoice": [
+      "rensei",
+      "karoshi",
+      "hanko",
+      "buka"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following countries reports the highest level of employee stress?",
+    "multipleChoice": [
+      "China",
+      "India",
+      "United Kingdom",
+      "United States"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "This type of stress allows a person to perform at their highest levels during times when performance is important.",
+    "multipleChoice": [
+      "dysfunctional",
+      "behavioral",
+      "functional",
+      "psychological"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which type of demand is related to working conditions, such as having an office that is too loud or overcrowded?",
+    "multipleChoice": [
+      "task demands",
+      "role demands",
+      "interpersonal demands",
+      "organizational structure demands"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following is NOT a role demand that may cause stress for employees?",
+    "multipleChoice": [
+      "role conflict",
+      "cultural roles",
+      "role overload",
+      "role ambiguity"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What percentage of millennial employees say that they are stressed more or all the time?",
+    "multipleChoice": [
+      "about 67%",
+      "about 50%",
+      "about 30%",
+      "about 15%"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A baseball player in a slump who feels stress from trying to raise his batting average is experiencing ________ stress.",
+    "multipleChoice": [
+      "task demand",
+      "role demand",
+      "role conflict",
+      "interpersonal"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A light-hitting baseball player who is suddenly asked to be a power hitter and hit home runs would be likely to experience ________ stress.",
+    "multipleChoice": [
+      "role overload",
+      "role demand",
+      "role conflict",
+      "role ambiguity"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A head football coach who tries to coach every phase of the team—offense, defense, and special teams—rather than delegate authority is likely to suffer from ________.",
+    "multipleChoice": [
+      "task demand",
+      "interpersonal demand",
+      "role conflict",
+      "role overload"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following might reduce a sense of task demand stress for a worker?",
+    "multipleChoice": [
+      "overcrowded conditions",
+      "uncomfortably high temperatures in the workplace",
+      "autonomy in the workplace",
+      "close monitoring by her supervisor"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following might be a source of stress for an employee who is very happy with her job with respect to the tasks she performs, what is expected from her, and how she is supervised?",
+    "multipleChoice": [
+      "task demands",
+      "role overload",
+      "interpersonal demands",
+      "organizational leadership"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Anika loves being a professional dancer, but she feels stress from the tension-packed, high-pressure, fear-filled demands of helping motivate members of her group. She is likely to be experiencing stress from ________.",
+    "multipleChoice": [
+      "too much autonomy",
+      "organizational leadership",
+      "role overload",
+      "role ambiguity"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "George constantly strives to excel. He must always get the highest grade in the class and has a sense of urgency about him at all times. George probably has which one of the following?",
+    "multipleChoice": [
+      "Type A personality",
+      "Type B personality",
+      "both Type A and Type B personalities",
+      "neither Type A nor Type B personality"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Mio is a very relaxed, easygoing person who appears to have all the time in the world. She is never too busy to stop and chat for a moment. Mio has which one of the following?",
+    "multipleChoice": [
+      "Type A personality",
+      "Type B personality",
+      "both Type A and Type B personalities",
+      "neither Type A nor Type B personality"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A key to dealing with stress is to recognize that all stress ________.",
+    "multipleChoice": [
+      "leads to dysfunctional work behavior",
+      "can be eliminated from an employee's life",
+      "cannot be eliminated from an employee's life",
+      "originates on the job"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "To reduce stress, managers need to make sure that employees ________.",
+    "multipleChoice": [
+      "have jobs that match their abilities",
+      "maximize their productivity",
+      "don't work too many hours",
+      "don't work too few hours"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Job redesigns are good ways to reduce stress that employees feel from ________.",
+    "multipleChoice": [
+      "work overload or boredom",
+      "work overload only",
+      "boredom only",
+      "boredom overload"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Stress from an employee's personal life can best be helped by ________.",
+    "multipleChoice": [
+      "job redesign",
+      "MBO",
+      "employee assistance programs",
+      "performance planning programs"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Studies show that ________ personalities show negative effects from stress.",
+    "multipleChoice": [
+      "Type A",
+      "Type B",
+      "neither Type A nor Type B",
+      "both Type A and Type B"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "What is the purpose of employee assistance programs (EAPs)?",
+    "multipleChoice": [
+      "to help employees with their diets",
+      "to help lower employee task demands",
+      "to get employees back to being productive",
+      "to help minorities cope with potential discrimination"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "________ refers to the ability to combine ideas in a unique way or to make unusual associations between ideas.",
+    "multipleChoice": [
+      "Innovation",
+      "Imagination",
+      "Creativity",
+      "Open-minded thinking"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "________ is the process of taking a creative idea and turning it into something useful.",
+    "multipleChoice": [
+      "Innovation",
+      "Imagination",
+      "Creativity",
+      "Inspiration"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Some people believe that creativity is ________, while others think that creativity ________.",
+    "multipleChoice": [
+      "quickly and easily learned; is slowly learned",
+      "a genuine quality; does not really exist",
+      "inborn; can be learned",
+      "learned; is forgotten after childhood"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The first step in creativity involves ________.",
+    "multipleChoice": [
+      "making something useful",
+      "seeing things from a unique perspective",
+      "putting ideas together",
+      "consolidating ideas"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following steps in the creativity process may take years before the idea finally 'gels' and the next step occurs?",
+    "multipleChoice": [
+      "perception",
+      "incubation",
+      "inspiration",
+      "innovation"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The moment when all prior efforts in the creativity process successfully come together is known as ________.",
+    "multipleChoice": [
+      "perception",
+      "incubation",
+      "inspiration",
+      "innovation"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Using the systems model, managers can promote innovation by having the right ________.",
+    "multipleChoice": [
+      "people and inputs",
+      "people and environment",
+      "outputs and resources",
+      "mechanistic management structure"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "________ variables are thought to promote innovation.",
+    "multipleChoice": [
+      "Structural, cultural, and human resource",
+      "Organic, cultural, and tolerant",
+      "Structural, ambiguous, and tolerant",
+      "Cultural, ambiguous, and tolerant"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "An innovative organization needs to tolerate ________ because creative ideas sometimes seem foolish at first.",
+    "multipleChoice": [
+      "mismanagement",
+      "the impractical",
+      "conflict",
+      "inefficiency"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "An innovative organization needs to tolerate risk because employees ________ the creative process.",
+    "multipleChoice": [
+      "being in physical danger is part of",
+      "being in physical danger is not part of",
+      "making mistakes is not part of",
+      "making mistakes is part of"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Managers who want creative and innovative employees should ________.",
+    "multipleChoice": [
+      "not place much emphasis on goals",
+      "focus on means rather than ends",
+      "focus on ends rather than means",
+      "stress that there is only one path to a goal"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "________ actively support innovation and every step of the process that leads to innovative ideas.",
+    "multipleChoice": [
+      "Idea champions",
+      "Idea managers",
+      "All managers",
+      "Champion managers"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "All of the following are common personality characteristics of idea champions EXCEPT ________.",
+    "multipleChoice": [
+      "extremely high self-confidence",
+      "persistence",
+      "energy",
+      "risk aversion"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Samll community libraries are facing ________ from electronic devices such as Kindle and online reading services.",
+    "multipleChoice": [
+      "continuous innovation",
+      "sustaining innovation",
+      "creative inspiration",
+      "disruptive innovation"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Majico, Inc., has a small team that works in a separate building on projects tangentially related to the company's main mission. They self-govern and have access to ample resources, most of it off-budget. They are free from the bureaucratic restraints placed on the 'official' workforce. This team comprises a ________.",
+    "multipleChoice": [
+      "badger team",
+      "skunk works",
+      "creative response team",
+      "sustaining innovation team"
+    ],
+    "correctAnswerIndex": 1
+  }
+]

@@ -1,0 +1,972 @@
+[
+  {
+    "questionText": "Motivation is NOT ________.",
+    "multipleChoice": [
+      "A permanent personal trait",
+      "A process that leads to a goal",
+      "Something that varies from situation to situation",
+      "Something that requires a direction"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which element of motivation is a measure of intensity or drive?",
+    "multipleChoice": [
+      "Direction",
+      "Energy",
+      "Persistence",
+      "Achievement"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The direction of an individual's motivation can be channeled to benefit ________.",
+    "multipleChoice": [
+      "Only an organization",
+      "Both individuals and/or organizations",
+      "Only an individual",
+      "An individual's family only"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "About ________ of managers surveyed feel they do a good job of motivating their employees.",
+    "multipleChoice": [
+      "One-quarter",
+      "One-half",
+      "A little over half",
+      "Three-quarters"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Maslow's theory is a hierarchy because ________.",
+    "multipleChoice": [
+      "All needs are equal",
+      "All needs are important",
+      "Needs are satisfied sequentially",
+      "Needs are never truly satisfied"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Maslow sees food as being on the same level of need as which of the following?",
+    "multipleChoice": [
+      "Sex",
+      "Companionship",
+      "Self-esteem",
+      "Personal safety"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "According to Maslow, a person stranded on a desert island would ________ before he or she worried about making weapons.",
+    "multipleChoice": [
+      "Look for other people",
+      "Build a house",
+      "Start a family",
+      "Establish his or her status on the island"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "An individual who wants to buy a home in a neighborhood with a low crime rate is satisfying which need?",
+    "multipleChoice": [
+      "Esteem",
+      "Safety",
+      "Physiological",
+      "Self-actualization"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Maslow argued that once a need is substantially satisfied, ________.",
+    "multipleChoice": [
+      "The next need becomes dominant",
+      "Individuals no longer require that need",
+      "That need continues to be the primary motivation of an individual",
+      "It becomes a higher-order need"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Maslow believes that higher-order needs ________.",
+    "multipleChoice": [
+      "Are satisfied externally",
+      "Are satisfied first",
+      "Are satisfied internally",
+      "Are satisfied most often"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The key to motivation, according to Maslow, is to identify ________.",
+    "multipleChoice": [
+      "Higher-order needs first",
+      "A person's level in the needs hierarchy",
+      "Lower-order needs last",
+      "A person's most important level in the needs hierarchy"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Maslow's hierarchical model ________.",
+    "multipleChoice": [
+      "Has been validated by a number of studies",
+      "Has never been validated by studies",
+      "Has been validated by empirical studies",
+      "Has been invalidated by intuitive means"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The highest order need in Maslow's hierarchy is ________.",
+    "multipleChoice": [
+      "Social esteem",
+      "Social needs",
+      "Self-monitoring",
+      "Self-actualization"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following is a lower-order need in Maslow's hierarchy?",
+    "multipleChoice": [
+      "Love",
+      "Self-worth",
+      "Independence",
+      "Personal safety"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "________ assumes that employees have little ambition, dislike work, and avoid responsibility.",
+    "multipleChoice": [
+      "Theory Y",
+      "Theory X",
+      "Self-actualization Need Theory",
+      "Belongingness Need Theory"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Theory Y assumes that people inherently ________.",
+    "multipleChoice": [
+      "Are driven by fear",
+      "Are unhappy",
+      "Want to control their own destiny",
+      "Don't trust one another"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Theory X assumes that people work hard when they ________.",
+    "multipleChoice": [
+      "Are closely controlled",
+      "Enjoy a sense of accomplishment",
+      "Are not compensated",
+      "Experience a sense of fairness"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A manager with a Theory X view of human nature would ________.",
+    "multipleChoice": [
+      "Be unlikely to allow workers to work independently",
+      "Be likely to let workers coordinate their work",
+      "Allow workers to monitor themselves",
+      "Trust his or her workers"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A manager with a Theory Y view of human nature would be likely ________.",
+    "multipleChoice": [
+      "Not to try to inspire his or her workers",
+      "To try to challenge his or her workers",
+      "To try to intimidate his or her workers",
+      "To monitor his or her workers closely"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Workers with a Theory X point of view would be most likely to respond to ________.",
+    "multipleChoice": [
+      "Kindness",
+      "A hands-off approach",
+      "Fear of losing their job",
+      "Freedom to modify their job"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Workers with a Theory Y point of view would be likely to ________.",
+    "multipleChoice": [
+      "Just want to collect a paycheck",
+      "Love their job more than the money they make",
+      "Avoid work unless rewards were high",
+      "Avoid responsibility for their actions"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "According to Herzberg, which kinds of characteristics are most closely associated with job dissatisfaction?",
+    "multipleChoice": [
+      "Intrinsic things that come from within themselves",
+      "Extrinsic things that come from the outside",
+      "Lack of advancement",
+      "The goals of the job"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "According to Herzberg's motivation-hygiene theory, ________ are associated with job satisfaction.",
+    "multipleChoice": [
+      "Rewards",
+      "Punishments",
+      "Hygiene factors",
+      "Motivators"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "According to Herzberg, which one of the following is considered a motivator?",
+    "multipleChoice": [
+      "Pay",
+      "Working conditions",
+      "Hygiene factors",
+      "Responsibility"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "According to Herzberg, favorable hygiene factors can cause an employee to feel ________.",
+    "multipleChoice": [
+      "Satisfied",
+      "Not dissatisfied",
+      "Dissatisfied",
+      "Indifferent"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "According to Herzberg, the opposite of the state of being satisfied is ________.",
+    "multipleChoice": [
+      "The opposite of dissatisfied",
+      "Not satisfied",
+      "An extrinsic factor",
+      "The opposite of intrinsic"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "According to Herzberg, when an extremely dissatisfied employee gets an improved salary and working conditions, he or she ________.",
+    "multipleChoice": [
+      "Becomes more motivated and more satisfied",
+      "Becomes less motivated and less satisfied",
+      "Becomes more dissatisfied, and his or her motivation increases",
+      "Becomes less dissatisfied, and his or her motivation is unaffected"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "According to Herzberg, what controls satisfaction and motivation?",
+    "multipleChoice": [
+      "Intrinsic factors",
+      "Extrinsic factors",
+      "Both intrinsic and extrinsic factors",
+      "Extrinsic and security factors"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "According to Herzberg, hygiene factors ________.",
+    "multipleChoice": [
+      "Help people avoid infections",
+      "Control motivation but not satisfaction",
+      "Control dissatisfaction but not satisfaction",
+      "Control motivation and satisfaction"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "According to Herzberg, in order to provide employees with job satisfaction, managers should concentrate on ________.",
+    "multipleChoice": [
+      "Salary and status",
+      "Working conditions",
+      "Achievement and recognition",
+      "Security"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following holds that intrinsic factors are related to job satisfaction and extrinsic factors are related to job dissatisfaction?",
+    "multipleChoice": [
+      "Maslow's hierarchy of needs",
+      "McGregor's Theory X and Theory Y",
+      "Vroom's expectancy theory",
+      "Herzberg's motivation-hygiene theory"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Herzberg has had the greatest influence on which one of the following?",
+    "multipleChoice": [
+      "Employee pay scales",
+      "Work conditions",
+      "How managers design jobs",
+      "Labor-management relations"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following is true of the three early theories of motivation?",
+    "multipleChoice": [
+      "Maslow focuses on job satisfaction",
+      "McGregor focuses on the basic needs of the individual",
+      "Both McGregor and Herzberg focus on human nature",
+      "McGregor focuses on positive and negative assumptions about human nature"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following is true of the three early theories of motivation?",
+    "multipleChoice": [
+      "Herzberg focuses on job satisfaction",
+      "McGregor does not address motivation",
+      "Maslow focuses on job satisfaction",
+      "Herzberg focuses on needs"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following was directly influenced by Herzberg's two-factor theory?",
+    "multipleChoice": [
+      "Maslow's hierarchy of needs",
+      "The job characteristics model",
+      "McClelland's three-needs theory",
+      "Expectancy theory"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which three needs are recognized in McClelland's three-needs theory?",
+    "multipleChoice": [
+      "Achievement, power, security",
+      "Achievement, power, affiliation",
+      "Power, comfort, stimulation",
+      "Security, self-interest, affiliation"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following suggests that humans have an innate desire for friendly and close interpersonal relationships?",
+    "multipleChoice": [
+      "Need for achievement",
+      "Need for power",
+      "Need for fulfillment",
+      "Need for affiliation"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "You would expect a successful inventor of a new type of heart valve to have a high ________.",
+    "multipleChoice": [
+      "nAff",
+      "nPow",
+      "nAch",
+      "nFun"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Why are individuals with a high nAch not the most successful managers?",
+    "multipleChoice": [
+      "They are concerned more about effectiveness than efficiency.",
+      "They are more focused on organizational goals than their own desires for promotion.",
+      "They focus too much on their own goals rather than the goals of others.",
+      "They can easily be distracted by trying to build a better mousetrap."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Successful managers tend to have this more than any other trait.",
+    "multipleChoice": [
+      "Low nPow",
+      "High nPow",
+      "High nAch",
+      "High nAff"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Successful managers tend to be better at ________.",
+    "multipleChoice": [
+      "Doing their own work than helping others",
+      "Identifying their own goals than identifying goals of subordinates",
+      "Helping others achieve goals than achieving their own goals",
+      "Accomplishing goals than identifying goals"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "McClelland's need that has received the most attention and research is the ________.",
+    "multipleChoice": [
+      "Need for achievement",
+      "Need for power",
+      "Need for recognition",
+      "Need for affiliation"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Zach is what type of manager?",
+    "multipleChoice": [
+      "Theory X-oriented",
+      "Theory Y-oriented",
+      "Dictatorial",
+      "Autocratic"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Susan was trying to use what type of Herzberg factors to increase productivity?",
+    "multipleChoice": [
+      "Motivators",
+      "Hygiene",
+      "Social",
+      "Esteem"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Zach was using which type of Herzberg factors to increase productivity levels?",
+    "multipleChoice": [
+      "Motivators",
+      "Hygiene",
+      "Social",
+      "Esteem"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which is the best summary of goal-setting theory?",
+    "multipleChoice": [
+      "Goals make no difference in performance.",
+      "Specific goals increase performance.",
+      "Always make your goals very difficult to reach.",
+      "Easy goals make for happier employees."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Setting goals definitely seems to ________.",
+    "multipleChoice": [
+      "Increase performance and motivation",
+      "Increase motivation but not performance",
+      "Decrease performance but increase motivation",
+      "Decrease motivation and performance"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "In goal-setting theory, which one of the following is the best kind of feedback?",
+    "multipleChoice": [
+      "Feedback from a superior",
+      "Feedback from a peer",
+      "Self-generated feedback",
+      "Group feedback"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "In which kinds of cultures does goal-setting theory work best?",
+    "multipleChoice": [
+      "High power distance, high uncertainty avoidance",
+      "Low power distance, high uncertainty avoidance",
+      "High power distance, low uncertainty avoidance",
+      "Low power distance, low uncertainty avoidance"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Goal-setting tends to do well in ________, where its basic ideas align well with general cultural values.",
+    "multipleChoice": [
+      "North America",
+      "South America",
+      "India and China",
+      "The Middle East"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The job characteristics model (JCM) maintains that ________ is critical to motivating workers.",
+    "multipleChoice": [
+      "How workers are treated",
+      "How jobs are designed",
+      "Equal treatment for all",
+      "Setting goals"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The JCM contends that meaningful work is ________.",
+    "multipleChoice": [
+      "High paying",
+      "Always difficult",
+      "Considered important and valuable by the worker",
+      "Considered unimportant to managers"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The JCM contends that ________ are required in meaningful work.",
+    "multipleChoice": [
+      "Skill variety, task identity, and task significance",
+      "Skill variety, autonomy, and feedback",
+      "Task identity, autonomy, and feedback",
+      "Task significance, autonomy, and feedback"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "According to the JCM, which set of three dimensions are required for a high level of motivation among workers?",
+    "multipleChoice": [
+      "High pay, autonomy, feedback",
+      "Meaningful work, autonomy, feedback",
+      "Meaningful work, autonomy, independence",
+      "Autonomy, feedback, good management"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Autonomy is important in the JCM because it gives the worker ________.",
+    "multipleChoice": [
+      "Time to finish the job",
+      "Help from fellow employees",
+      "Flexibility in dealing with managers",
+      "A sense of personal responsibility"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "In the JCM, motivation and satisfaction increase when ________.",
+    "multipleChoice": [
+      "The employee feels good about herself.",
+      "The employee cares about the task.",
+      "The employee feels rewarded.",
+      "The employee feels like she belongs."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Job enrichment in the JCM seems to work best with people who have ________.",
+    "multipleChoice": [
+      "A low growth need",
+      "A high growth need",
+      "No growth need",
+      "A variable growth need"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A theory that suggests that employees compare their inputs and outputs from a job to the ratio of relevant others is known as ________.",
+    "multipleChoice": [
+      "Action motivation",
+      "Goal setting",
+      "Reinforcement theory",
+      "Equity theory"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Equity theory is based primarily on ideas about which of the following?",
+    "multipleChoice": [
+      "Objectivity",
+      "The importance of work",
+      "Fairness",
+      "Automation"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Equity theory recognizes that individuals are concerned with ________.",
+    "multipleChoice": [
+      "Making enough money to live on",
+      "Employers sharing profits",
+      "Comparing their rewards to those of others",
+      "Justice for all people who work"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Equity theory uses the ratio of outcomes you get from your job to the amount of ________.",
+    "multipleChoice": [
+      "Input you put into your job",
+      "Outcome a referent gets from a job",
+      "Benefit you get from your job",
+      "Compensation you get from your job"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Equity theory compares your own outcomes-to-input ratio to that of ________.",
+    "multipleChoice": [
+      "Your boss",
+      "A referent",
+      "The input-to-output ratio of another worker",
+      "The input-to-output ratio of an idealized worker"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A referent in equity theory refers to which one of the following?",
+    "multipleChoice": [
+      "A theoretical worker",
+      "Other people and systems only",
+      "Oneself only",
+      "Other people, systems, or oneself"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "In equity theory, a worker's 'self' category refers to ________.",
+    "multipleChoice": [
+      "The standards and expectations of other workers",
+      "Their comparisons to the highest paid worker they know",
+      "Their comparisons to the lowest paid worker they know",
+      "The person's own inputs-outcomes ratios"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Inequity exists when one's own outcomes-to-input ratio ________ that of the referent.",
+    "multipleChoice": [
+      "Is greater than but not less than",
+      "Is less than but not greater than",
+      "Is equal to",
+      "Is greater than or less than"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Equity exists when one's own outcomes-to-input ratio ________ that of the referent.",
+    "multipleChoice": [
+      "Is greater than",
+      "Is less than",
+      "Is equal to",
+      "Is greater than or less than"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "In equity theory, an under-rewarded individual ________ the work he or she does.",
+    "multipleChoice": [
+      "Is paid too much for",
+      "Is paid too little for",
+      "Is paid fairly for",
+      "Does not complain about"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Under-rewarded inequity exists when one's own outcomes-to-input ratio ________ that of the referent.",
+    "multipleChoice": [
+      "Is greater than",
+      "Is less than",
+      "Is equal to",
+      "Is greater than or equal to"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Over-rewarded inequity exists when one's own outcomes-to-inputs ratio ________ that of the referent.",
+    "multipleChoice": [
+      "Is greater than",
+      "Is less than",
+      "Is equal to",
+      "Is greater than or equal to"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "In equity theory, distributive justice is concerned with which one of the following?",
+    "multipleChoice": [
+      "Comparing one individual to an entire system",
+      "Comparing output-to-input ratios among individuals",
+      "Comparing output-to-input ratios among large groups",
+      "Comparing fairness between different cultures"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "In equity theory, procedural justice is concerned with which one of the following?",
+    "multipleChoice": [
+      "Determining how fair the system is",
+      "Determining how honest one's boss is",
+      "Comparing output-to-input ratios among individuals",
+      "Comparing fairness between different organizations"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "In equity theory, an under-rewarded individual is likely to ________.",
+    "multipleChoice": [
+      "Have high motivation to show his or her value to the organization",
+      "Lack motivation because he or she does not receive enough reward for what he or she does",
+      "Have just the right motivation to get the job done",
+      "Have high motivation due to high self-esteem"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The first variable in expectancy theory involves how much effort a person must exert to ________.",
+    "multipleChoice": [
+      "Receive a given reward",
+      "Attain a certain level of performance",
+      "Finish the job in the shortest period of time",
+      "Finish the job with the lowest possible standards"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The second variable in expectancy theory requires the worker to ask him- or herself: If I perform at a given level, how likely is it that I will ________?",
+    "multipleChoice": [
+      "Attain the reward or outcome I am looking for",
+      "Value a promotion if I get it",
+      "Be treated fairly",
+      "Be noticed by my superiors"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The third variable in expectancy theory requires the worker to ask him- or herself which question?",
+    "multipleChoice": [
+      "How likely am I to attain this outcome?",
+      "What do I need to do to attain this outcome?",
+      "How important is this outcome to me?",
+      "How important is this outcome to the organization I work for?"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "In expectancy theory, a person may have the ability to reach a certain goal but lack motivation because ________.",
+    "multipleChoice": [
+      "The goal is too easy",
+      "The goal is too hard",
+      "The person's desire to reach the goal is too strong",
+      "The person has no strong desire for the reward"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "A key element of expectancy theory might be summarized by saying ________.",
+    "multipleChoice": [
+      "Most people are motivated by money",
+      "Everyone is always motivated by fear of failure",
+      "Everyone is motivated by the same thing",
+      "Different rewards motivate people in different ways"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The key to expectancy theory is that an individual's goals ________.",
+    "multipleChoice": [
+      "Are not too high",
+      "Are not too high and not too low",
+      "Match the goals of fellow workers and superiors",
+      "Match the rewards provided by the organization"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "If salespeople in John's company meet their sales goals for the month, they are given an all-expense-paid trip to a Denver Broncos football game. Football is not one of John's favorite sports, and the Denver Broncos are definitely not John's favorite team. John's performance might be influenced by the ________ part of Vroom's expectancy theory.",
+    "multipleChoice": [
+      "Effort-performance linkage",
+      "Performance-reward linkage",
+      "Effort-reward linkage",
+      "Attractiveness"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Katie has just been asked to type up a report in two days using a software program she has never used. Katie wonders if she will be able to get her project accomplished on time and in the format her manager wanted. This is an example of which variable in Vroom's expectancy theory?",
+    "multipleChoice": [
+      "Effort-performance linkage",
+      "Performance-reward linkage",
+      "Valence-reward linkage",
+      "Attractiveness"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following theories of motivation is seen as the most comprehensive?",
+    "multipleChoice": [
+      "JCM theory",
+      "Expectancy theory",
+      "Equity theory",
+      "Goal-setting theory"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The integrated model for motivation as shown in the chapter reading features the following basic sequence.",
+    "multipleChoice": [
+      "Effort → performance → rewards → individual goals",
+      "Effort → equity → goals → needs",
+      "Needs → factors → extrinsic factors → individual goals",
+      "Needs → goals → individual effort → organizational goals"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The integrated model for motivation as shown in the chapter reading predicts strong motivation for an individual to perform when the reward is based on ________.",
+    "multipleChoice": [
+      "Seniority or years of service in the organization",
+      "Personal favorites of top managers",
+      "Performance above all factors",
+      "Likability of the worker"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "In the integrated model for motivation as shown in the chapter reading, high achievers circumvent the entire sequence of steps for motivation because ________.",
+    "multipleChoice": [
+      "They are motivated by the organization's assessment of their performance",
+      "They are internally motivated, not motivated by rewards",
+      "They are motivated by rewards only, not by internal factors",
+      "Their only goal is domination"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "In the integrated model for motivation as shown in the chapter reading, how do reinforcement theory and equity theory figure in?",
+    "multipleChoice": [
+      "Appropriate rewards reinforce a high level of performance.",
+      "Underrewarding results in 'hungry' employees who will work harder.",
+      "Overrewarding results in 'satisfied' employees who will work harder.",
+      "Reinforcement and equity theories do not influence motivation."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The JCM is seen in the integrated model of motivation in that jobs that are designed around the five JCM dimensions ________.",
+    "multipleChoice": [
+      "Increase motivation because workers enjoy the work and autonomy they provide",
+      "Decrease motivation because the work is too easy to complete and the autonomy lacks structure",
+      "Increase motivation by applying pressure to employees",
+      "Decrease motivation by giving employees too much autonomy"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "To increase the motivation through enrichment, Acme decides to increase the meaningfulness of the work. This might be done by ________.",
+    "multipleChoice": [
+      "Increasing skill variety",
+      "Increasing autonomy of workers",
+      "Giving workers more feedback",
+      "Giving workers less feedback"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Most jobs at Acme were redesigned to allow the employees to complete a whole and identifiable piece of work. This fits ________, a core dimension of the job characteristics model.",
+    "multipleChoice": [
+      "Skill variety",
+      "Task identity",
+      "Task significance",
+      "Autonomy"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Acme managers explained how important their product was to the world economy. Which core dimension in the job characteristics model is this?",
+    "multipleChoice": [
+      "Skill variety",
+      "Task identity",
+      "Task significance",
+      "Autonomy"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "In today's diverse workforce, which factor do managers need to focus on most to maximize motivation?",
+    "multipleChoice": [
+      "Control",
+      "Well-organized workplace",
+      "Flexibility",
+      "Status and recognition"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following describes the effect of flexible work arrangements on employees?",
+    "multipleChoice": [
+      "Increased job satisfaction",
+      "A drastic decrease in job satisfaction",
+      "A small decrease in job satisfaction",
+      "A sharp increase in job satisfaction"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following is thought to best motivate professionals?",
+    "multipleChoice": [
+      "High pay",
+      "Status and power within the organization",
+      "Short hours and good working conditions",
+      "Challenging problems and important work"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following is NOT recognized as a way to motivate contingent workers?",
+    "multipleChoice": [
+      "Promise of permanent employment in the future",
+      "Opportunity for training",
+      "Opportunity to develop marketable skills",
+      "Opportunity to work alongside permanent employees"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "What is a potential disadvantage of telecommuting?",
+    "multipleChoice": [
+      "Lack of time for personal or family needs",
+      "Job satisfaction may decrease based on the number of hours spent telecommuting.",
+      "Less time spent commuting",
+      "Casual dress"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following is NOT a common way that employee recognition programs recognize worker achievements?",
+    "multipleChoice": [
+      "Added worker responsibilities",
+      "A party",
+      "A handwritten note of thanks",
+      "A public announcement of achievement"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Compensation plans based on employee output or productivity are referred to as ________.",
+    "multipleChoice": [
+      "Pay-for-performance programs",
+      "Prize time programs",
+      "Equity plus methods",
+      "Give-back programs"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "During tough economic times, managers find that ________ work(s) best for motivating employees.",
+    "multipleChoice": [
+      "De-emphasizing how employees work is tied to performance",
+      "Fostering two-way communication",
+      "Promotions in job status without increased pay",
+      "Promises of future compensation"
+    ],
+    "correctAnswerIndex": 1
+  }
+]

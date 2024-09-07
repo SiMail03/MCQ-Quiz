@@ -1,0 +1,647 @@
+[
+  {
+    "questionText": "The control management function ensures that ________ in an organization.",
+    "multipleChoice": [
+      "goals are set",
+      "goals are met",
+      "plans are made",
+      "plans are realistic"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A major part of the controlling function of management is to ________.",
+    "multipleChoice": [
+      "formulate strategies",
+      "set goals",
+      "correct performance problems",
+      "structure an organization"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The more a control system helps an organization ________, the more successful it is judged to be.",
+    "multipleChoice": [
+      "meet government guidelines",
+      "help employees achieve job satisfaction",
+      "meet its goals",
+      "increase sales"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A well-run company that has well-thought-out plans, motivated and productive workers, and an efficient organizational structure ________.",
+    "multipleChoice": [
+      "always attains its goals",
+      "may not always attain its goals",
+      "rarely attains its goals",
+      "has no reason to monitor its performance"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The value of the controlling function is seen in three specific areas: planning, ________.",
+    "multipleChoice": [
+      "organizing, and leading",
+      "protecting employees, and empowering the workplace",
+      "protecting employees, and protecting the workplace",
+      "empowering employees, and protecting the workplace"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Controlling is the ________ in the management process.",
+    "multipleChoice": [
+      "first step",
+      "final step",
+      "most important step",
+      "least important step"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Controlling compares ________ to see if goals are being achieved.",
+    "multipleChoice": [
+      "planned performance to standard performance",
+      "standard performance to ideal performance",
+      "actual performance to competitor performance",
+      "actual performance to planned performance"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Effective controlling can help managers ________.",
+    "multipleChoice": [
+      "empower their employees",
+      "set their goals",
+      "maximize risk",
+      "minimize employee empowerment"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The controlling function helps managers protect an organization's ________.",
+    "multipleChoice": [
+      "reputation for honesty",
+      "assets",
+      "position in the community",
+      "good name"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The first step in the control process is to ________.",
+    "multipleChoice": [
+      "take action",
+      "measure actual performance",
+      "compare performance against a standard",
+      "compare a standard against an ideal"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Managers always use these for performance standards during the control process.",
+    "multipleChoice": [
+      "goals created during the planning process",
+      "employee opinions",
+      "performance standards for the industry",
+      "standards developed by performance experts"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A manager measuring actual performance is like a teacher ________.",
+    "multipleChoice": [
+      "composing a test",
+      "grading a test",
+      "helping a student study for a test",
+      "making an assignment"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "________ are the most informal form of performance measurement.",
+    "multipleChoice": [
+      "Oral reports",
+      "Written reports",
+      "Statistical reports",
+      "Personal observations"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "MBWA stands for management by ________.",
+    "multipleChoice": [
+      "work area",
+      "work action",
+      "written action",
+      "walking around"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "An advantage of management by walking around is ________.",
+    "multipleChoice": [
+      "perceptual biases",
+      "obtrusiveness",
+      "personal contact",
+      "objectivity"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "For a baseball player, a statistical report would feature such things as ________.",
+    "multipleChoice": [
+      "a newspaper profile of the player",
+      "batting average and slugging percentage",
+      "filmed highlights of great plays",
+      "scouting reports on the player"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A disadvantage of a statistical report is that it may leave out ________ measurements of performance.",
+    "multipleChoice": [
+      "subjective",
+      "objective",
+      "positive",
+      "negative"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A(n) ________ format would be most likely to include graphs, tables, and computer outputs.",
+    "multipleChoice": [
+      "oral report",
+      "statistical report",
+      "MBWA",
+      "written report"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "________ performance measurement method is fast and is a good platform for feedback, yet it can be private and scheduled for a single employee ahead of time.",
+    "multipleChoice": [
+      "A written report",
+      "The MBWA",
+      "An oral report",
+      "A statistical report"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Of the options given, the most comprehensive form of performance measurement is this.",
+    "multipleChoice": [
+      "MBWA",
+      "oral report",
+      "graphs",
+      "written report"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Stefan has a recording of a one-on-one meeting with his boss. This represents ________.",
+    "multipleChoice": [
+      "a statistical report",
+      "an oral report",
+      "MBWA",
+      "a written report"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Jesus' assigned work section consists of three work groups who were assessed by this method of performance measurement and were informally judged to be \"creative, innovative, hard-working, and fun-loving.\"",
+    "multipleChoice": [
+      "MBWA",
+      "written report",
+      "statistical report",
+      "oral report"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The ________ forms of performance measurement provide the best and most immediate forms of feedback.",
+    "multipleChoice": [
+      "oral report and written report",
+      "written report and statistical report",
+      "MBWA and oral report",
+      "statistical report and MBWA"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What managers choose to measure is largely determined by ________.",
+    "multipleChoice": [
+      "what an organization wants to do well",
+      "the organization's structure",
+      "the company's image",
+      "the leaders and leadership style of those in the organization"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A car company that puts more effort into measuring quality than total units sold most likely wants to excel at ________.",
+    "multipleChoice": [
+      "customer satisfaction",
+      "efficiency",
+      "employee satisfaction",
+      "cost per unit"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A software company that puts almost all of its performance measurement effort into measuring the total number of units that the company and its competitors sell most likely wants to excel at ________.",
+    "multipleChoice": [
+      "efficiency",
+      "market share",
+      "cost per unit",
+      "labor per unit"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A state motor vehicles agency that is tasked with serving the public might choose to measure ________.",
+    "multipleChoice": [
+      "total revenue rather than customer wait time",
+      "total customers rather than total revenue",
+      "customer wait time rather than total customers",
+      "employee turnover rather than customer wait time"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following performance measurement categories must be measured subjectively rather than in objective or quantifiable terms?",
+    "multipleChoice": [
+      "budget",
+      "absenteeism",
+      "efficiency",
+      "job satisfaction"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The second step in the control process is to ________.",
+    "multipleChoice": [
+      "compare a standard against an ideal",
+      "measure actual performance",
+      "compare performance against a standard",
+      "take action"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "To carry out the second step of the control process, managers at an electric shaver company need to compare the number of actual shavers sold to ________.",
+    "multipleChoice": [
+      "a competitor's sales totals",
+      "planning goals for sales totals",
+      "sales totals from last year",
+      "the number of possible shaver customers"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "In the second step of the control process, actual performance can be considered acceptable as long as the performance doesn't fall ________.",
+    "multipleChoice": [
+      "short of goals by more than 15 percent",
+      "short of goals by more than 30 percent",
+      "inside an acceptable range of variation",
+      "outside an acceptable range of variation"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "In general, ________ that falls outside an acceptable range of variation must be dealt with by a manager.",
+    "multipleChoice": [
+      "an overperformance",
+      "an underperformance",
+      "any deviation",
+      "a small overperformance or a large underperformance"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The third step in the control process is to ________.",
+    "multipleChoice": [
+      "measure actual performance",
+      "compare a standard against an ideal",
+      "take action",
+      "compare performance to a standard"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "When actual performance falls outside an acceptable range of variation, it is termed a(n).",
+    "multipleChoice": [
+      "significant deviation",
+      "insignificant deviation",
+      "acceptable deviation",
+      "large deviation"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "When should a manager's course of action be to do nothing?",
+    "multipleChoice": [
+      "when the cause of the variation has been identified",
+      "when the standard is acceptable",
+      "when the standard is not acceptable",
+      "when the variance is acceptable"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Actual performance falls short of planned goals, yet a manager takes no action. Assuming this manager is a reasonable person and is not mistaken, what is the most likely cause of his inaction?",
+    "multipleChoice": [
+      "He does not trust the data.",
+      "He does not consider the deviation significant.",
+      "He does not trust the goals that were set.",
+      "He does not believe in corrective action."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following is NOT a recognized possible course of action for managers to take when actual performance falls outside an acceptable range of variation?",
+    "multipleChoice": [
+      "take corrective action",
+      "change the standards",
+      "editing the performance data",
+      "do nothing"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "If a manager of a tennis store sees sales totals for a particular racquet significantly exceeding goals and deviating from acceptable range of variation, she might ________.",
+    "multipleChoice": [
+      "do nothing since sales exceeded goals",
+      "run a sale on the racquet",
+      "run a sale on other products",
+      "inquire about ordering more racquets"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "After an extended period of unseasonably warm and sunny weather, revenue at an indoor tennis club are down sharply during the month of November, but are in line with what managers expected for the month. The best strategy for the club manager is to ________.",
+    "multipleChoice": [
+      "do nothing",
+      "run a sale on hourly rates",
+      "raise hourly rates to increase revenue",
+      "change her monthly goals for December"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "49) Due to recent construction of an upscale housing community near a tennis club, customer use has skyrocketed during the year and the club is operating at all-time high levels, far beyond the goals set the previous year. The best strategy for the manager is to ________.",
+    "multipleChoice": [ "A) do nothing", "B) run a sale to increase customers", "C) advertise supplemental services", "D) change goals for the following year" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "50) Immediate corrective action is designed ________.",
+    "multipleChoice": [ "A) to get to the root cause of a problem", "B) to get performance back on track", "C) to shake up an organization", "D) to punish employees for poor performance" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "51) For addressing the hardships accompanying unemployment, ________ is an example of immediate corrective action.",
+    "multipleChoice": [ "A) a job training program", "B) temporary assistance to needy families", "C) a task force to see why jobs were lost", "D) a job placement agency" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "52) For addressing unemployment, ________ is an example of basic corrective action.",
+    "multipleChoice": [ "A) a task force to see why jobs were lost", "B) SNAP", "C) unemployment compensation", "D) a job training program" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "53) In many cases, immediate corrective action rather than basic corrective action is taken by managers because the manager may ________.",
+    "multipleChoice": [ "A) want to be thorough", "B) lack time", "C) lack information", "D) not understand the situation" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "54) Which one of the following would constitute basic corrective action for employees whose production has dropped?",
+    "multipleChoice": [ "A) changing the pay scale", "B) taking away employee privileges", "C) looking for causes of the production drop", "D) changing how the work is carried out" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "55) A law firm manager finds that one lawyer who consistently outperforms other lawyers at the firm is threatening to leave. Which immediate corrective action should the manager take?",
+    "multipleChoice": [ "A) none", "B) offer a bonus", "C) disciplinary action", "D) a study to see why she outperforms others" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "56) A law firm manager finds that the firm loses too many of its civil cases while it wins an inordinately high number of its criminal cases. Which basic corrective action can the manager take?",
+    "multipleChoice": [ "A) pay criminal lawyers more", "B) pay civil lawyers less", "C) analyze civil and criminal cases", "D) fire civil lawyers" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "57) When might a manager be justified in revising a standard rather than taking corrective action to remedy a significant performance deviation?",
+    "multipleChoice": [ "A) when performance exceeds the standard", "B) when performance falls slightly short of the standard", "C) when performance falls far short of the standard", "D) when the standard is unrealistic" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "58) A professor gives a new test to an otherwise typical class and finds that only 10 percent of the students earn grades of C or above. What is the most appropriate and fair response?",
+    "multipleChoice": [ "A) do nothing", "B) revise the grading curve downward", "C) revise the grading curve upward", "D) revise the test itself" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "59) All of the following are dangers of revising production goals downward EXCEPT ________.",
+    "multipleChoice": [ "A) it destroys incentive to work harder", "B) it increases incentive to work harder", "C) it gives employees an excuse to be less productive", "D) it gives employees something to blame for their lack of effort" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "79) Which kind of control takes place before the actual work is carried out?",
+    "multipleChoice": [ "A) feedback", "B) concurrent", "C) recurrent", "D) feedforward" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "80) A cell phone maker tests its new model with a sample audience when it is fully operational. What kind of control is this?",
+    "multipleChoice": [ "A) pre-market control", "B) feedback control", "C) concurrent control", "D) feedforward control" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "81) Which kind of control takes place while the actual work is carried out?",
+    "multipleChoice": [ "A) feedback", "B) concurrent", "C) reverse", "D) feedforward" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "82) Direct supervision of employees is a form of ________ control.",
+    "multipleChoice": [ "A) concurrent", "B) ineffective", "C) feedback", "D) feedforward" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "83) An action show producer has a read-through of a half-written show in which actors, writers, producers, and the director are free to make comments and changes before the show is filmed. What kind of control is being used?",
+    "multipleChoice": [ "A) feedback control", "B) concurrent control", "C) spontaneous control", "D) feedforward control" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "84) A fast-food restaurant is querying prospective customers about the features they would like to see in a new panini sandwich. What kind of control is being used?",
+    "multipleChoice": [ "A) concurrent control", "B) feedback control", "C) feedforward control", "D) anticipation control" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "85) Which kind of control takes place after the actual work has been carried out?",
+    "multipleChoice": [ "A) feedback", "B) forward", "C) feedforward", "D) concurrent" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "86) A basketball coach showing players how to position themselves on the court during practice is carrying out ________, a form of concurrent control.",
+    "multipleChoice": [ "A) unstructured supervision", "B) direct supervision", "C) indirect supervision", "D) feedback supervision" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "87) One advantage of feedback control over other forms of control is that it lets managers focus on ________.",
+    "multipleChoice": [ "A) what is about to take place", "B) how on target their planning efforts were", "C) how effective their organizing efforts were", "D) the task as it is being carried out" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "88) When feedback control shows that planning goals and actual performance were dramatically different, the most likely conclusion is that ________.",
+    "multipleChoice": [ "A) planning was not on target", "B) performance measurements were unreliable", "C) planning was on target", "D) goals do not need to be changed" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "89) An advantage of feedback control is that it improves ________.",
+    "multipleChoice": [ "A) motivation", "B) productivity", "C) groupthink", "D) employee-employee relations" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Managers exert financial control on an organization using ________ analysis.",
+    "multipleChoice": [ "activity", "productivity", "ratio and budget", "productivity and resource" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "________ is a measure of an organization's ability to meet its current debt obligations.",
+    "multipleChoice": [ "Leverage", "Activity", "Liquidity", "Profitability" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "________ is a measure of an organization's ability to efficiently use its assets.",
+    "multipleChoice": [ "Profitability", "Activity", "Leverage", "Liquidity" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "________ is a measure of an organization's use of debt to finance its assets.",
+    "multipleChoice": [ "Profitability", "Liquidity", "Activity", "Leverage" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "________ is a measure of how readily a company can use its assets to generate profits.",
+    "multipleChoice": [ "Profitability", "Leverage", "Liquidity", "Activity" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A company looks at its expenses and finds that its payments to freelancers increased significantly over the past few months, exceeding the budget by 25 percent. This is an example of ________.",
+    "multipleChoice": [ "using a budget for planning", "using data to confirm a budget", "justifying expenses with a budget", "using a budget for monitoring and controlling" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "A company looks at its expenses and finds that its payments to freelancers increased significantly over the past few months, exceeding the budget by 25 percent. Which one of the following is the most reasonable action for the company to take?",
+    "multipleChoice": [ "revise the budget", "fire the people who were responsible for the expenses", "ignore the expenses as an aberration", "see what the expenses were for" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "A company looks at its expenses and finds that its electricity costs have increased, exceeding the budget by 20 percent. If true, which one of the following would be most likely to require immediate action on the part of the company?",
+    "multipleChoice": [ "The price per kilowatt hour for electricity has gone up by 25 percent.", "The price per kilowatt hour has gone up by 15 percent.", "The price per kilowatt hour for electricity has gone down by five percent.", "The price per kilowatt hour has stayed steady." ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "When a budget is formulated, it is being used as a(n) ________ tool.",
+    "multipleChoice": [ "organizing", "controlling", "planning", "leadership" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "When a budget is used for controlling, it provides ________ against which resource consumption can be compared.",
+    "multipleChoice": [ "quantitative standards", "qualitative standards", "flexible standards", "nonnumerical standards" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A household that cuts back on supermarket spending after going over budget on its food expenses is using the budget as a(n) ________.",
+    "multipleChoice": [ "planning tool", "controlling tool", "organizing tool", "leading tool" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A family that is using a computer program to create a formal household budget is using the budget as a(n) ________.",
+    "multipleChoice": [ "planning tool", "controlling tool", "organizing tool", "leading tool" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A management information system (MIS) provides managers with ________ data.",
+    "multipleChoice": [ "analyzed and processed", "raw", "unanalyzed", "numerical" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "All of the following are important in efforts to protect information in an organization EXCEPT ________.",
+    "multipleChoice": [ "firewalls", "encryption", "search engines", "data backups" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A balanced scorecard approach creates goals in four key performance areas and assesses ________.",
+    "multipleChoice": [ "whether the majority of them are met", "whether all four goals are met", "whether financial goals exceed the other goals", "which goals are exceeded" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "In which country would highly centralized decision making be more likely to be prevalent?",
+    "multipleChoice": [ "Mexico", "Scotland", "Japan", "Australia" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Direct supervision as a basic means of control is much more common in ________.",
+    "multipleChoice": [ "small countries", "democracies", "more technologically advanced countries", "less technologically advanced countries" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "When comparing Mexico to Scotland, you would expect Scottish workers to have ________.",
+    "multipleChoice": [ "lower labor cost per worker", "higher labor cost per worker", "more satisfaction", "worse working conditions" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which statement about employee privacy is correct?",
+    "multipleChoice": [ "Employers have a legal right to monitor on-the-job employee phone calls.", "Employers have no legal right to monitor on-the-job employee phone calls.", "Employers have the legal right to monitor all employee phone calls.", "Employers do not have the right to monitor any employee phone calls." ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following employer practices is NOT legal?",
+    "multipleChoice": [ "reading employee email", "monitoring employees in a bathroom", "tracking an employee's whereabouts in the workplace", "monitoring an employee's personal home computer" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Of the following choices, ________ is the most common reason for companies firing employees.",
+    "multipleChoice": [ "misuse of office phones", "inappropriate computer use", "watching online video", "leaking company secrets" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Monitoring ________ has proved to be very helpful in establishing culpability in sexual harassment cases.",
+    "multipleChoice": [ "phone calls", "emails", "employee whereabouts", "Internet use" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What fraction of U.S. employees do personal website surfing every day?",
+    "multipleChoice": [ "less than one-quarter", "slightly less than half", "more than half", "almost all" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Annual losses from organizational theft and fraud amount to about ________ per worker.",
+    "multipleChoice": [ "$500", "$2,500", "$4,500", "$6,000" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "An effective feedforward strategy for dealing with employee theft is ________.",
+    "multipleChoice": [ "screen workers before they are hired", "openly state the real costs of stealing", "have managers set good examples", "hire professional investigators" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "An effective concurrent strategy for dealing with employee theft of supplies and equipment is ________.",
+    "multipleChoice": [ "establish theft policies", "redesign all control measures", "\"lock-out\" options on electronic devices", "video surveillance" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "All of the following are common rationalizations that workers use to justify workplace theft EXCEPT ________.",
+    "multipleChoice": [ "\"Everyone does it.\"", "\"They'll never miss it.\"", "\"I deserve this.\"", "\"I owe money from gambling.\"" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "In any given week, at least ________ workers are attacked by coworkers or former coworkers and seriously injured in the United States.",
+    "multipleChoice": [ "1 percent of all", "10", "25", "100" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Workplace violence is most likely to occur in ________.",
+    "multipleChoice": [ "open organic workplaces", "functional workplaces", "dysfunctional workplaces", "both functional or dysfunctional workplaces—violence shows no pattern" ],
+    "correctAnswerIndex": 2
+  }
+]

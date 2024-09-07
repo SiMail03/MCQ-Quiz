@@ -1,0 +1,2977 @@
+[
+  {
+    "questionText": "Which one of the following is a common myth about the study of management?",
+    "multipleChoice": [ "Management is just common sense.", "Managers need to be well disciplined in all of the business areas.", "Managers are found in all types of organizations, large and small.", "Many of today's managers are minorities." ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "An organization is ________.",
+    "multipleChoice": [ "the physical location where people work", "any collection of people who perform similar tasks", "a deliberate arrangement of people to accomplish some specific purpose", "a group of individuals focused on profit-making for their shareholders" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "All organizations have ________ that define(s) the organization's purpose and reason for existing.",
+    "multipleChoice": [ "limits", "rules", "structure", "goals" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "One of the common characteristics of all organizations is ________ define(s) and limits the behavior of its members.",
+    "multipleChoice": [ "a set of written bylaws", "an explicit goal", "a structure", "a stated purpose" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A college Spanish club is an example of an organization because it is comprised of people who ________.",
+    "multipleChoice": [ "share the same values, traditions, and customs", "share the same goals and values", "share goals and function within a common structure", "function under the same set of rules and regulations" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following is a key difference between managerial and nonmanagerial employees?",
+    "multipleChoice": [ "Managerial employees receive higher pay compensation.", "Nonmanagerial employees have less formal education.", "Nonmanagerial employees do not oversee the work of others.", "Managerial employees work longer hours." ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The primary job of a manager is to ________.",
+    "multipleChoice": [ "make decisions that help an organization grow", "tackle tasks that are too difficult for nonmanagerial employees", "coordinate between organization leaders and ordinary employees", "direct and oversee the work of others" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The work of a manager ________.",
+    "multipleChoice": [ "is strictly limited to overseeing and monitoring the work of others", "may involve performing tasks that are not related to overseeing others", "involves only high-level tasks that require a sophisticated skill set", "does not involve interaction with nonmanagerial employees" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Supervisor is another name for which one of the following?",
+    "multipleChoice": [ "team leader", "middle manager", "first-line manager", "top manager" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following types of managers is responsible for making organization-wide decisions and establishing the plans and goals that affect the entire organization?",
+    "multipleChoice": [ "team leader", "top manager", "department head", "project leader" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following is an important job responsibility for a middle manager?",
+    "multipleChoice": [ "defining the organization's long-term goals", "translating goals defined by top managers into action", "helping top managers define goals", "performing tasks that are not related to long-term goals" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following identifies a manager who does NOT typically supervise other managers?",
+    "multipleChoice": [ "unit chief", "shift manager", "vice president", "division manager" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Of the following, which one is the lowest level of management?",
+    "multipleChoice": [ "a nonmanagerial employee", "an individual involved in defining the organization's philosophy", "a vice president", "a middle manager" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "All levels of management between the supervisory level and the top level of the organization are termed ________.",
+    "multipleChoice": [ "middle managers", "first-line managers", "supervisors", "team leaders" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following levels of management is associated with positions such as executive vice president, chief operating officer, chief executive officer, and chairperson of the board?",
+    "multipleChoice": [ "team leaders", "middle managers", "first-line managers", "top managers" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following is an example of increased efficiency in manufacturing?",
+    "multipleChoice": [ "cutting the amount of labor required to make the product", "cutting the price of the product", "increasing sales of the product", "increasing advertising for the product" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Another term for effectiveness is ________.",
+    "multipleChoice": [ "doing the right things", "doing things right", "doing things intelligently", "doing things when necessary" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The primary job of a manager is to ________.",
+    "multipleChoice": [ "make decisions that help an organization grow", "tackle tasks that are too difficult for nonmanagerial employees", "coordinate between organization leaders and ordinary employees", "direct and oversee the work of others" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The work of a manager ________.",
+    "multipleChoice": [ "is strictly limited to overseeing and monitoring the work of others", "may involve performing tasks that are not related to overseeing others", "involves only high-level tasks that require a sophisticated skill set", "does not involve interaction with nonmanagerial employees" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Supervisor is another name for which one of the following?",
+    "multipleChoice": [ "team leader", "middle manager", "first-line manager", "top manager" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following types of managers is responsible for making organization-wide decisions and establishing the plans and goals that affect the entire organization?",
+    "multipleChoice": [ "team leader", "top manager", "department head", "project leader" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following is an important job responsibility for a middle manager?",
+    "multipleChoice": [ "defining the organization's long-term goals", "translating goals defined by top managers into action", "helping top managers define goals", "performing tasks that are not related to long-term goals" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following identifies a manager who does NOT typically supervise other managers?",
+    "multipleChoice": [ "unit chief", "shift manager", "vice president", "division manager" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Of the following, which one is the lowest level of management?",
+    "multipleChoice": [ "a nonmanagerial employee", "an individual involved in defining the organization's philosophy", "a vice president", "a middle manager" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "All levels of management between the supervisory level and the top level of the organization are termed ________.",
+    "multipleChoice": [ "middle managers", "first-line managers", "supervisors", "team leaders" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following levels of management is associated with positions such as executive vice president, chief operating officer, chief executive officer, and chairperson of the board?",
+    "multipleChoice": [ "team leaders", "middle managers", "first-line managers", "top managers" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following is an example of increased efficiency in manufacturing?",
+    "multipleChoice": [ "cutting the amount of labor required to make the product", "cutting the price of the product", "increasing sales of the product", "increasing advertising for the product" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Another term for effectiveness is ________.",
+    "multipleChoice": [ "doing the right things", "doing things right", "doing things intelligently", "doing things when necessary" ],
+    "correctAnswerIndex": 0
+  },
+
+
+  {
+    "questionText": "Effectiveness is synonymous with ________.",
+    "multipleChoice": [ "cost minimization", "smart management", "goal attainment", "efficiency" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Efficiency refers to ________.",
+    "multipleChoice": [ "the relationship between inputs and outputs", "the additive relationship between inputs and outputs", "the inverse relationship between inputs and outputs", "decreasing inputs only" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Good management strives for ________.",
+    "multipleChoice": [ "low efficiency and high effectiveness", "high efficiency and low effectiveness", "high efficiency and high effectiveness", "moderate efficiency and moderate effectiveness" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A candy manufacturer would increase both efficiency and effectiveness by making ________.",
+    "multipleChoice": [ "better candy at the same cost", "better candy at a lower cost", "the same candy at a lower cost", "the same candy at the same cost" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A candy manufacturer that made candy at a lower cost without improving the quality of the candy could be said to ________.",
+    "multipleChoice": [ "increase effectiveness without increasing efficiency", "increase efficiency without increasing effectiveness", "increase both effectiveness and efficiency", "decrease both effectiveness and efficiency" ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "questionText": "Brenda's ability to determine what needs to be done and by whom is evidence that she excels at which management function?",
+    "multipleChoice": [ "planning", "controlling", "leading", "organizing" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "When Joe decides the number of output units his team will be able to produce this week, which management process is he performing?",
+    "multipleChoice": [ "controlling", "leading", "planning", "organizing" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Today, the basic management functions are considered to be ________.",
+    "multipleChoice": [ "planning, coordinating, leading, and monitoring", "planning, organizing, leading, and motivating", "commanding, organizing, leading, and decision making", "planning, organizing, leading, and controlling" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "How many management functions were originally proposed by Henri Fayol?",
+    "multipleChoice": [ "three: plan, organize, lead", "four: plan, organize, lead, control", "five: plan, organize, command, coordinate, control", "ten: 3 interpersonal, 3 informational, 4 decisional" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following is NOT considered to be a part of the planning function of a manager?",
+    "multipleChoice": [ "defining goals", "motivating", "mapping out strategy", "making decisions" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The controlling management function is largely a matter of ________.",
+    "multipleChoice": [ "resolving conflicts", "determining what needs to be done", "monitoring activities to see that tasks are accomplished", "enforcing rules for employees" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Organizing includes ________.",
+    "multipleChoice": [ "defining organizational goals", "resolving conflicts", "motivating organizational members", "determining who does what tasks" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Resolving a conflict would be considered to fall under which managerial function?",
+    "multipleChoice": [ "controlling", "planning", "directing", "leading" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "An important part of the controlling function is ________.",
+    "multipleChoice": [ "evaluating", "structuring", "coordinating", "punishing" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "________ developed a categorization scheme for defining what managers do, consisting of ten different but highly interrelated roles.",
+    "multipleChoice": [ "Henri Fayol", "Robert L. Katz", "Henry Mintzberg", "Henry Ford" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Giving a speech at an organization banquet would fall into which Mintzberg category?",
+    "multipleChoice": [ "informational", "interpersonal", "decisional", "entrepreneurial" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Mintzberg developed his 10 managerial roles by ________.",
+    "multipleChoice": [ "sending out questionnaires to thousands of managers", "observing hundreds of managers over several years", "closely monitoring the work activities of five chief executives", "using common sense to analyze the situation" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "According to Mintzberg, which of the following fit into the category of interpersonal roles?",
+    "multipleChoice": [ "figurehead, leader, and liaison", "negotiator, liaison, and figurehead", "monitor, leader, and resource allocator", "disturbance handler, liaison, and negotiator" ],
+    "correctAnswerIndex": 0
+  },
+
+
+  {
+    "questionText": "A pharmaceutical company manager attending a meeting of academic scientists would be functioning in which role?",
+    "multipleChoice": [
+      "informational",
+      "figurehead",
+      "liaison",
+      "decisional"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A finance manager who reads the Wall Street Journal on a regular basis would be performing which role?",
+    "multipleChoice": [
+      "leader",
+      "monitor",
+      "disseminator",
+      "liaison"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The emphasis that managers give to various activities is generally based on their ________.",
+    "multipleChoice": [
+      "organizational level",
+      "tenure with the organization",
+      "experience in their field",
+      "skill specialty"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The current research on managerial skill points to four general management skills. Which of the following is NOT one of the four skills?",
+    "multipleChoice": [
+      "political",
+      "interpersonal",
+      "conceptual",
+      "scientific"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The four managerial functions first described by Fayol are considered the 'best' because ________.",
+    "multipleChoice": [
+      "they were devised a long time ago",
+      "most sources still use them",
+      "they date back to ancient Greece and Rome",
+      "they are no longer popular today"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "All of the following are examples of informational roles according to Mintzberg EXCEPT ________.",
+    "multipleChoice": [
+      "entrepreneur",
+      "monitor",
+      "disseminator",
+      "spokesperson"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following is NOT an example of a decisional role according to Mintzberg?",
+    "multipleChoice": [
+      "spokesperson",
+      "entrepreneur",
+      "disturbance handler",
+      "resource allocator"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "One managerial function that is identical in both Fayol's and Mintzberg's systems is ________.",
+    "multipleChoice": [
+      "leader",
+      "resource allocator",
+      "monitor",
+      "negotiator"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The managerial role that changes the most between middle and top managers is ________.",
+    "multipleChoice": [
+      "planning",
+      "organizing",
+      "controlling",
+      "leading"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Non-profit organizations are different from for-profit organizations primarily ________.",
+    "multipleChoice": [
+      "in the way they make decisions",
+      "in the way they measure success",
+      "in the way they motivate employees",
+      "in how they hire employees"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The role of ________ is more important for managers of small organizations than for managers working in large corporations.",
+    "multipleChoice": [
+      "disseminator",
+      "spokesperson",
+      "entrepreneur",
+      "resource allocator"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "In a small organization, which one of the following is NOT likely to be true?",
+    "multipleChoice": [
+      "Planning is not likely to be an orchestrated ritual.",
+      "Relationships are more likely to be informal.",
+      "Workers are likely to be observed by computerized monitoring systems.",
+      "The design of the organization is likely to be less structured and complex."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following is NOT a characteristic of a small business?",
+    "multipleChoice": [
+      "has more formal managers than a large business",
+      "has about 200 employees",
+      "is not a 'player' with impact within its industry",
+      "has a relatively small market share of its product"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Why might a manager for a non-profit organization seem as concerned with his or her organization's financial well-being as a for-profit manager?",
+    "multipleChoice": [
+      "Non-profit managers are evaluated on financial performance only.",
+      "Non-profit managers try to give the illusion that they care about the 'bottom line.'",
+      "Not-for-profit organizations need to make money to continue operating.",
+      "Non-profit organizations have an obligation to turn a profit."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following is NOT considered an interpersonal skill for a manager as suggested by Katz?",
+    "multipleChoice": [
+      "Communicating",
+      "Mentoring",
+      "Delegating",
+      "Decisiveness"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Compared to the manager of a large organization, a small business manager is more likely to be a(n) ________.",
+    "multipleChoice": [
+      "Specialist",
+      "Figurehead",
+      "Generalist",
+      "Information monitor"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Unlike the manager of a small business, the most important concerns of a manager in a large organization are focused ________.",
+    "multipleChoice": [
+      "Externally, particularly on entrepreneurial tasks",
+      "Internally, particularly on the allocation of resources",
+      "On setting goals",
+      "On planning ways to improve organizational structure"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following statements regarding management and national culture is the most correct?",
+    "multipleChoice": [
+      "The basic principles of management are universal.",
+      "Research shows that managerial practices across all countries are not consistent.",
+      "There are major differences in the way that most English speaking countries view management.",
+      "The route of the differences between how countries practice management is based on their economic principles solely."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following would political skills be most likely to help a manager accomplish?",
+    "multipleChoice": [
+      "Increasing communication",
+      "Mentoring",
+      "Defining goals",
+      "Building a power base"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Almost all managerial tasks involve ________.",
+    "multipleChoice": [
+      "Decision making",
+      "Technical skills",
+      "Long-term planning",
+      "Superb political skills"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "According to Katz, the four critical managerial skills can be classified as ________.",
+    "multipleChoice": [
+      "Technical, political, conceptual, and empirical",
+      "Interpersonal, political, empirical, and technical",
+      "Technical, interpersonal, political, and controlling",
+      "Technical, political, interpersonal, and conceptual"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Understanding building codes would be considered a(n) ________ skill for a building contractor.",
+    "multipleChoice": [
+      "Interpersonal",
+      "Technical",
+      "Conceptual",
+      "Political"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Under which category would you classify skill in motivating subordinates?",
+    "multipleChoice": [
+      "Interpersonal skills",
+      "Conceptual skills",
+      "Technical skills",
+      "Political skills"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Designing a series of interview questions to provide information about possible customers for a company would primarily require ________.",
+    "multipleChoice": [
+      "Technical skills",
+      "Interpersonal skills",
+      "Conceptual skills",
+      "Political skills"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Technical skills might include ________.",
+    "multipleChoice": [
+      "Excellent verbal skills",
+      "Proficiency in computer programming",
+      "Exceptional writing ability",
+      "Decision-making ability"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which level of management would be more concerned with designing the overall structure of an organization?",
+    "multipleChoice": [
+      "Middle management",
+      "Supervisory management",
+      "Top management",
+      "First line management"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "When Joe checks the amount of output units that the team has completed and the number of units that have been rejected, he is performing which management process?",
+    "multipleChoice": [ "controlling", "leading", "planning", "organizing" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "When Joe tells the employees that he is sure they can fulfill the schedule because they are the ones 'who get going when the going gets tough,' he is performing which management process?",
+    "multipleChoice": [ "controlling", "leading", "planning", "organizing" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "When Don gives the plant tour to the newspaper reporter, what role will he be performing?",
+    "multipleChoice": [ "monitor", "entrepreneur", "spokesperson", "resource allocator" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "When Don attends the retirement party, he will be operating in which of the management roles?",
+    "multipleChoice": [ "leader", "liaison", "monitor", "figurehead" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "When Don meets with Phil to discuss Phil's output decline, in which management role will Don be operating?",
+    "multipleChoice": [ "leader", "figurehead", "disseminator", "spokesperson" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "What kind of a manager is Don likely to be?",
+    "multipleChoice": [ "first-line manager", "CEO of a major corporation", "low-level middle manager", "plant manager" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "When Don reviews the equipment malfunction, what management role will he play in deciding whether to bring in extra people?",
+    "multipleChoice": [ "monitor", "disseminator", "resource allocator", "disturbance handler" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "When Michelle learns from city officials about how her plant's operations may be affecting the environment, she is performing which management role?",
+    "multipleChoice": [ "leader", "resource allocator", "entrepreneur", "liaison" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "When Michelle addresses a complaint filed by an employee, she is performing which management role?",
+    "multipleChoice": [ "resource allocator", "disturbance handler", "liaison", "figurehead" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "When Michelle meets with the section managers to brief them on the concerns of the city officials, which management role is she performing?",
+    "multipleChoice": [ "disseminator", "liaison", "disturbance handler", "negotiator" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "When Michelle spends time searching for new technologies for her plant, she is performing which management role?",
+    "multipleChoice": [ "leader", "entrepreneur", "spokesperson", "disturbance handler" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which type of management skill does Michelle use most during the day?",
+    "multipleChoice": [ "conceptual", "informational", "interpersonal", "political" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Michelle's evaluation of new technologies that can be used in the production processes of her plant is an example of which type of management skill?",
+    "multipleChoice": [ "conceptual", "communication", "political", "interpersonal" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "What was the primary cause of demise for such companies as Enron, Dave & Barry's, and Circuit City?",
+    "multipleChoice": [ "poor management", "difficult economic conditions", "corruption", "governmental regulation" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Who stands to benefit least from studying management?",
+    "multipleChoice": [ "a pro football coach", "a pro football spectator", "a pro football owner", "a pro football player" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "We all have a vested interest in understanding the way organizations are managed because ________.",
+    "multipleChoice": [ "we all stand to gain financially from organizational profits", "we interact with organizations every day of our lives", "we all depend on organizations for employment", "organizations dictate every facet of our lives" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Even people who have no plans to be managers can benefit from studying management because ________.",
+    "multipleChoice": [ "they are likely to be managed in their work career", "everyone ends up managing", "they need to be able to outsmart their managers", "management helps people control their emotions" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following is the mark of a well-managed company?",
+    "multipleChoice": [ "It can build a customer base quickly.", "It can find ways to prosper even in economically challenging times.", "It doesn't need to worry about customer loyalty.", "It can find ways to prosper during economic boom times." ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Companies that are well managed can prosper during difficult economic times by depending on ________.",
+    "multipleChoice": [ "government bailouts", "filing for bankruptcy", "raising prices", "a loyal customer base" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following is a difficult ethical challenge to new managers in today's business climate?",
+    "multipleChoice": [ "not being able to hire new employees", "having to fire employees who are not productive", "not receiving training in the transition to management", "increasing the amount that employees pay for health care" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Even people who have no plans to be managers can benefit from studying management because ________.",
+    "multipleChoice": [ "they are likely to be managed in their work career", "everyone ends up managing", "they need to be able to outsmart their managers", "management helps people control their emotions" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A common factor that all managers face in today's world is the ________.",
+    "multipleChoice": [
+      "changing nature of work",
+      "lagging development of technology",
+      "demand to move to a production based economy",
+      "boredom of employees"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The decision of the Seattle Post Intelligencer newspaper to go \"all-digital\" resulted in ________.",
+    "multipleChoice": [
+      "managers needing to hire new employees",
+      "managers needing to drastically reduce their workforce",
+      "no workforce changes, but changes in the price of the paper",
+      "very few changes in the way the paper did business"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "How do customers play a role in changing the job of the modern manager?",
+    "multipleChoice": [
+      "Managers are learning to think of customers as adversaries in a battle of survival.",
+      "Managers are inviting customers to take control of the planning and design of new products.",
+      "Managers are increasingly de-emphasizing customer satisfaction as a major goal.",
+      "Managers are increasingly including customer satisfaction as a major goal."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The CEO of Cisco Systems likes to ________.",
+    "multipleChoice": [
+      "read emails from satisfied customers",
+      "listen to voice mails from satisfied customers",
+      "listen to voice mails from dissatisfied customers",
+      "argue with dissatisfied customers and try to convince them that they are wrong"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What does a company's prompt, courteous, and helpful answering of a telephone with a human operator signal to the customer who is calling?",
+    "multipleChoice": [
+      "The company has high prices.",
+      "The company is wasting resources on telephone operators.",
+      "The company is responsive to the customer's needs.",
+      "The company has low prices."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Why is innovation a key component of a manager's job in today's business environment?",
+    "multipleChoice": [
+      "Innovation keeps employees on their toes.",
+      "Innovation gives companies a \"fresh\" image without changing much real substance.",
+      "New approaches are always superior to old approaches.",
+      "Innovation efforts are needed in all types of organizations."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which management challenge refers to management's responsibility to be attentive to environmental and societal challenges?",
+    "multipleChoice": [
+      "social media",
+      "politics",
+      "managerial ethics",
+      "sustainability"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Described as the new frontier, this new challenge for managers has the potential to both boast and drain employee productivity.",
+    "multipleChoice": [
+      "organizational politics",
+      "social media",
+      "environmental activism",
+      "intrapreneurship"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What did the effect of a volcanic eruption in Iceland on the production of Nissans in a plant in Japan illustrate?",
+    "multipleChoice": [
+      "how much organizations depend on their banks",
+      "how much organizations depend on their external environment",
+      "how much organizations depend on corporate culture",
+      "how much organizations depend on a strong brand image"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which components of the external environment of the BMW plant in Spartanburg, South Carolina were disrupted by the volcanic eruption in Eyjafjallajökull, Iceland?",
+    "multipleChoice": [
+      "the demographic and global components",
+      "the political and legal components",
+      "the economic and global components",
+      "the sociocultural and demographic components"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following is not involved with the demographic component of an organization's external environment?",
+    "multipleChoice": [
+      "values",
+      "gender",
+      "race",
+      "income"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The ________ component of an organization's external environment is concerned with scientific and industrial innovations.",
+    "multipleChoice": [
+      "demographic",
+      "technological",
+      "sociocultural",
+      "economic"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The ________ component of an organization's external environment is concerned with interest rates and employment levels.",
+    "multipleChoice": [
+      "demographic",
+      "technological",
+      "sociocultural",
+      "economic"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Court rulings allowing gay marriage are an example of a change in which components of an organization's external environment?",
+    "multipleChoice": [
+      "political/legal and technological",
+      "economic and demographic",
+      "sociocultural and global",
+      "sociocultural and political/legal"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Global trade after the recent economic downturn has ________.",
+    "multipleChoice": [
+      "increased dramatically",
+      "decreased dramatically",
+      "increased, then decreased significantly",
+      "increased slowly"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The majority of growth in the U.S. employment recently has been in this area.",
+    "multipleChoice": [
+      "part-time jobs",
+      "high paying jobs",
+      "technology jobs",
+      "full-time jobs"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following has been identified as a significant risk to business leaders in the next decade?",
+    "multipleChoice": [
+      "stagnation in technology",
+      "income disparity",
+      "declining birth rates",
+      "political instability"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "According to polls, which percent of adults believe that economic inequality 'is not a problem at all?'",
+    "multipleChoice": [
+      "90",
+      "50",
+      "30",
+      "10"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "In the United States, the gap between the rich and poor is ________.",
+    "multipleChoice": [
+      "decreasing",
+      "accepted",
+      "hidden",
+      "increasingly tolerated"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The use of peer-to-peer services such as Uber is an example of this type of economy.",
+    "multipleChoice": [
+      "capitalistic",
+      "socialistic",
+      "sharing",
+      "unplanned"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following assets can be used as part of a sharing economy?",
+    "multipleChoice": [
+      "cars",
+      "homes",
+      "skills",
+      "all of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following views of management would agree with the statement that managers should not be held accountable for changing global economic conditions?",
+    "multipleChoice": [
+      "the geocentric view",
+      "the new-world order view",
+      "the demographic view",
+      "the symbolic view"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which view of management describes a situation in which managers are directly responsible for a company's success or failure?",
+    "multipleChoice": [
+      "the structural view of management",
+      "the symbolic view of management",
+      "the omnipotent view of management",
+      "the realistic view of management"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which kind of company would be less likely to fire its CEO for poor performance?",
+    "multipleChoice": [
+      "a company with a symbolic view of management",
+      "a company with a realistic view of management",
+      "a company with an external view of management",
+      "a company with an omnipotent view of management"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which kind of company would you expect to pay its CEO the most?",
+    "multipleChoice": [
+      "a company with a symbolic view of management",
+      "a company with a liberal view of management",
+      "a company with a semipotent view of management",
+      "a company with an omnipotent view of management"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "________ is the study of population characteristics.",
+    "multipleChoice": [
+      "Sociology",
+      "Demographics",
+      "Sociographics",
+      "Anthropology"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Experts predict that these two countries will be larger than the developed countries of the world by the year 2050.",
+    "multipleChoice": [
+      "Mexico and China",
+      "India and China",
+      "China and South Africa",
+      "India and Mexico"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What will cause countries such as Denmark to shrink with respect to the size of their economy, relative to other nations?",
+    "multipleChoice": [
+      "no social safety net",
+      "welfare payments",
+      "high birth rate",
+      "low birth rate"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following identifies the best illustration of the phrase 'demographics is destiny?'",
+    "multipleChoice": [
+      "India is experiencing explosive growth partly because its population is growing rapidly.",
+      "India is experiencing poverty because its population is growing rapidly.",
+      "The United States is experiencing slow growth partly because its population is growing rapidly.",
+      "The United States is experiencing healthy growth partly because its population is not growing and people are saving their resources."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which demographic do managers pay closest attention to with respect to large-scale trends in the business world?",
+    "multipleChoice": [
+      "age",
+      "sex",
+      "employment status",
+      "geographic location"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "How are Gen Z workers likely to be different from previous generations?",
+    "multipleChoice": [
+      "They require products that are Internet-enabled.",
+      "They require products that are completely generic and not at all customized to the individual.",
+      "They require products that are serious and meaningful rather than frivolous and fun.",
+      "They require products that are of much higher quality than those required by individuals in previous generations."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which popular name has been assigned to those individuals born between 1946–1964?",
+    "multipleChoice": [
+      "Generation Y",
+      "Millennials",
+      "Generation X",
+      "Baby Boomers"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which generation is predicted to be the most diverse and multicultural of any generation in the United States?",
+    "multipleChoice": [
+      "Baby Boomers",
+      "Generation X",
+      "Generation Y",
+      "Generation Z"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Decision making begins with ________.",
+    "multipleChoice": [ "A) selecting alternatives", "B) identifying decision criteria", "C) identifying a problem", "D) eliminating false alternatives" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following defines a problem in the decision-making process?",
+    "multipleChoice": [ "A) a discrepancy between what exists and what the decision maker desires to exist", "B) a discrepancy between the ideal and the practical", "C) something that causes irritation", "D) something that calls for attention" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The decision-making process consists of a series of eight steps that identify a problem and work toward ultimately ________.",
+    "multipleChoice": [ "A) determining if there is a solution to the problem", "B) solving the problem", "C) making a plan to solve the problem", "D) breaking down the problem into a series of steps" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "To identify a problem, a manager ________.",
+    "multipleChoice": [ "A) compares one set of standards or goals to a second set of standards or goals", "B) looks for unhappy customers", "C) uses intuition to see that things don't look right", "D) compares the current state of affairs with some standard or goal" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "A manager can faithfully execute the decision-making process but still end up with nothing of value if ________.",
+    "multipleChoice": [ "A) he fails to identify the correct problem", "B) he fails to assign number values to different criteria", "C) he solves the problem inefficiently", "D) he fails to correctly identify the steps of the process" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A manager is considering purchasing new computers for her department. The manager spends time assessing the computers her department now has. Which stage of the decision-making process is she going through?",
+    "multipleChoice": [ "A) identification of a problem", "B) identification of decision criteria", "C) development of alternatives", "D) implementation of an alternative" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A manager is determining what kind of new computers she should purchase for her department. She has made a list of five different computer models for consideration. Which stage of the decision-making process is this?",
+    "multipleChoice": [ "A) selection of an alternative", "B) identification of decision criteria", "C) development of alternatives", "D) analysis of alternatives" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "After purchasing new computers for her department, a manager is now comparing the performance of the new computers to the computers they replaced. Which stage of the decision-making process is she carrying out?",
+    "multipleChoice": [ "A) analysis of alternatives", "B) evaluation of decision effectiveness", "C) selection of an alternative", "D) implementation of an alternative" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "For a high-tech bicycle buyer, decision criteria would be determined by ________.",
+    "multipleChoice": [ "A) whatever most bike buyers recommend", "B) expert ratings in bike magazines", "C) technical specifications", "D) personal preferences of the buyer" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following is LEAST likely to be a decision criterion for a high-tech bicycle buyer who cares primarily about performance?",
+    "multipleChoice": [ "A) warranty", "B) gear mechanism", "C) frame composition", "D) brake assembly" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following would be a fairly objective criterion by which a bicycle buyer could assess different bike models?",
+    "multipleChoice": [ "A) color", "B) weight", "C) quality of craftsmanship", "D) style" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A manager chooses to ignore a rigorous decision-making process and selects TV monitor A over monitor B because he 'trusts' company A more than company B. If the decision he made was rational, which one of the following is true?",
+    "multipleChoice": [ "A) Monitor A is really the better choice.", "B) The manager should have included 'trust' as a criterion.", "C) Monitor B is really the better choice.", "D) The manager must have made a mistake in calculating his weighted criteria." ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "In allocating weights to the decision criteria, which one of the following is most helpful to remember?",
+    "multipleChoice": [ "A) All weights must be the same.", "B) The total of the weights must equal 100.", "C) The high score should be a 10, and no two criteria should be assigned the same weight.", "D) Assign the most important criterion a score, and then assign weights against that standard." ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "What is a heuristic?",
+    "multipleChoice": [ "A) a complicated and systematic method of decision making", "B) a purely intuitive method of decision making", "C) a totally unreliable method of decision making", "D) a shortcut or rule of thumb that is used for decision making" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Because they are not systematic or comprehensive, using heuristics in place of an eight-step decision-making process can lead to ________.",
+    "multipleChoice": [ "A) errors and biases", "B) consistently better decisions", "C) more imaginative decisions", "D) decisions that more directly solve problems" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following is NOT a reason why managers often resort to using heuristics?",
+    "multipleChoice": [ "A) They seem to eliminate complexity.", "B) They seem to eliminate ambiguity.", "C) They save time.", "D) They thoroughly explore all alternatives." ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "A banker opts for short-term gain despite indications that his decision might not pay off in the long run. Which error or bias is the banker guilty of?",
+    "multipleChoice": [ "A) overconfidence", "B) immediate gratification", "C) selective perception bias", "D) representation" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A scientist cites two studies that show a positive effect for her drug and ignores five other studies that show a negative effect. Which error or bias is she committing?",
+    "multipleChoice": [ "A) hindsight", "B) anchoring effect", "C) confirmation bias", "D) self-serving" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "One legislator sees decreased tax revenue as the key problem in the budget. A second legislator sees increased spending as the problem. Each of these legislators has a(n) ________.",
+    "multipleChoice": [ "A) representation bias", "B) self-serving bias", "C) availability bias", "D) framing bias" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following is NOT a common decision-making error or bias?",
+    "multipleChoice": [ "A) sunk costs", "B) randomness", "C) forest for the trees", "D) overconfidence bias" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "According to the decision-making process, the first step Sondra should take is to ________.",
+    "multipleChoice": [
+      "A) analyze alternative solutions",
+      "B) identify decision criteria",
+      "C) evaluate her decision's effectiveness",
+      "D) identify the problem"
+    ],
+    "correctAnswerIndex": 3
+
+  },
+  {
+    "questionText": "Sondra has decided to collect information about the features the company needs for its system. Which stage of the decision-making process is she carrying out?",
+    "multipleChoice": [
+      "A) identify alternative solutions",
+      "B) identify decision criteria",
+      "C) evaluate her decision's effectiveness",
+      "D) allocate weights to the criteria"
+    ],
+    "correctAnswerIndex": 1
+
+  },
+  {
+    "questionText": "Sondra has determined that the speed of the system she settles on is twice as important as the capacity of the system. Which stage of the decision-making process is she carrying out?",
+    "multipleChoice": [
+      "A) allocation of weights to criteria",
+      "B) selecting an alternative",
+      "C) implementing the alternative",
+      "D) identifying the problem"
+    ],
+    "correctAnswerIndex": 0
+
+  },
+  {
+    "questionText": "Sondra has decided to purchase a new system. After obtaining permission, she has ordered the system from a reputable company. Which stage of the decision-making process is she carrying out in making the order?",
+    "multipleChoice": [
+      "A) analyzing alternative solutions",
+      "B) selecting an alternative",
+      "C) implementing the alternative",
+      "D) identifying the problem"
+    ],
+    "correctAnswerIndex": 2
+
+  },
+  {
+    "questionText": "The very last step Sondra should take, according to the decision-making process, is to ________.",
+    "multipleChoice": [
+      "A) analyze alternative solutions",
+      "B) select alternatives",
+      "C) implement the alternative",
+      "D) evaluate the decision's effectiveness"
+    ],
+    "correctAnswerIndex": 3
+
+  },
+  {
+    "questionText": "The three main models that managers use to make decisions are ________.",
+    "multipleChoice": [
+      "A) rational, bounded rational, and intuitive",
+      "B) rational, irrational, and bounded rational",
+      "C) intuitive, unintuitive, and rational",
+      "D) bounded rational, intuitive, and systematic"
+    ],
+    "correctAnswerIndex": 0
+
+  },
+  {
+    "questionText": "It is assumed that a rational decision maker ________.",
+    "multipleChoice": [
+      "A) would never make a wrong choice",
+      "B) would be subjective and impractical",
+      "C) would face only difficult decisions",
+      "D) would be objective and logical"
+    ],
+    "correctAnswerIndex": 3
+
+  },
+  {
+    "questionText": "What does it mean for a decision maker to maximize value?",
+    "multipleChoice": [
+      "A) to make the decision to be as clear and logical as possible",
+      "B) to make the achievement of goals as likely as possible",
+      "C) to waste as little time and energy as possible",
+      "D) to make decision making as simple as possible"
+    ],
+    "correctAnswerIndex": 1
+
+  },
+  {
+    "questionText": "Maximizing value for an organization means making sure that ________.",
+    "multipleChoice": [
+      "A) the organization makes money",
+      "B) the best interests of the organization are addressed",
+      "C) the decision made is as rational as possible",
+      "D) the decision is as simple as possible"
+    ],
+    "correctAnswerIndex": 1
+
+  },
+  {
+    "questionText": "Which one of the following is NOT assumed in a rational decision?",
+    "multipleChoice": [
+      "A) a clear and specific goal",
+      "B) a clear and unambiguous problem",
+      "C) most alternatives and consequences are known",
+      "D) value is maximized"
+    ],
+    "correctAnswerIndex": 2
+
+  },
+  {
+    "questionText": "It is assumed that in most cases the decisions of all managers are limited by ________.",
+    "multipleChoice": [
+      "A) greed and short-sightedness",
+      "B) having too much information",
+      "C) not being able to analyze all information for all alternatives",
+      "D) not being able to act rationally or in the best interests of their organization"
+    ],
+    "correctAnswerIndex": 2
+
+  },
+  {
+    "questionText": "Which term best characterizes a decision that has bounded rationality?",
+    "multipleChoice": [
+      "A) virtually perfect",
+      "B) rigorous and comprehensive",
+      "C) not good enough",
+      "D) just good enough"
+    ],
+    "correctAnswerIndex": 3
+
+  },
+  {
+    "questionText": "Software programs that use a series of questions to aid humans in decision making are called ________.",
+    "multipleChoice": [
+      "A) text reading software",
+      "B) expert systems",
+      "C) group systems",
+      "D) support software"
+    ],
+    "correctAnswerIndex": 1
+
+  },
+  {
+    "questionText": "Expert systems are primarily used to help what kinds of decision makers?",
+    "multipleChoice": [
+      "A) lower-level managers",
+      "B) top managers",
+      "C) senior managers",
+      "D) experts"
+    ],
+    "correctAnswerIndex": 0
+
+  },
+  {
+    "questionText": "Neural networks are able to outdo the performance of humans by ________.",
+    "multipleChoice": [
+      "A) analyzing symbols",
+      "B) handling up to three variables at once",
+      "C) handling hundreds of variables at once",
+      "D) reading facial expressions"
+    ],
+    "correctAnswerIndex": 2
+
+  },
+  {
+    "questionText": "Neural networks differ from expert systems in that they can ________.",
+    "multipleChoice": [
+      "A) draw conclusions from data",
+      "B) ask questions to the decision maker",
+      "C) perform sophisticated calculations",
+      "D) learn from experience"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Neural networks outperform expert systems in uncovering ________.",
+    "multipleChoice": [ "credit card fraud", "false positives for pregnancy", "potential credit card customers", "credit problems in bank mortgages" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Herbert Simon won the Nobel Prize in economics for his work in describing ________.",
+    "multipleChoice": [ "how people spend money", "how most people are perfectly rational", "how people make decisions", "how people avoid decisions" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following is the best definition for the word satisfice?",
+    "multipleChoice": [ "very satisfying", "not sufficient", "accepts a less than perfect solution", "requires a perfect solution" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Herbert Simon found that in making decisions, most people satisficed because they had limited ability to ________.",
+    "multipleChoice": [ "be truthful and honest in situations that deal with other people", "think independently", "deal with difficult situations", "grasp present conditions and anticipate future conditions" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "A person who satisfices fails to ________.",
+    "multipleChoice": [ "maximize his or her decision", "understand his or her position", "accept the truth of a situation", "make any kind of decision" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Sticking to a decision despite evidence that it is a mistake is called ________.",
+    "multipleChoice": [ "escalation of commitment", "escalation of rationality", "satisficing commitment", "error enhancement" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Escalation of commitment can occur when people don't ________.",
+    "multipleChoice": [ "want to make a decision", "want to admit that an earlier decision was flawed", "accept current conditions", "understand that conditions have changed" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which model of decision making takes advantage of unconscious reasoning?",
+    "multipleChoice": [ "rational", "nonrational", "intuitive", "factual" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Compared to fully rational decision making, what is a major advantage of intuitive decision making?",
+    "multipleChoice": [ "total reliability", "fully quantified", "thoroughness", "speed" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Approximately what percentage of managers typically use intuitive decision making rather than formal analysis to make decisions?",
+    "multipleChoice": [ "95%", "75%", "almost 50%", "less than 10%" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Intuitive decision making ________.",
+    "multipleChoice": [ "should be avoided by managers in making day to day decisions", "is often described as conscious decision making", "can complement other decision making approaches", "takes more time than other approaches as it requires managers to shift through feelings and emotions and place them in context with actual facts." ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following is NOT a way in which intuition guides people who are making decisions?",
+    "multipleChoice": [ "Intuition provides ethics and values guidelines.", "Intuition provides a formal analysis method.", "Intuition provides experiences to draw from.", "Intuition draws on knowledge, skills, and training." ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Emotions and feelings ________ decision making.",
+    "multipleChoice": [ "often have no effect on", "can improve", "always decrease performance in", "are more important than facts and logic in" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Structured problems are ________.",
+    "multipleChoice": [ "ambiguous", "undefined and vague", "clear and straightforward", "incomplete" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Unstructured problems are ________.",
+    "multipleChoice": [ "perfectly rational", "clear and straightforward", "situations in which all options are known", "situations in which all options are not known" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following is an example of a structured problem?",
+    "multipleChoice": [ "designing a new digital music player", "hiring a lawyer", "deciding shipping options for a vacuum cleaner", "drafting a quarterback for a pro football team" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following is an example of an unstructured problem?",
+    "multipleChoice": [ "finding the list price of different copy machines", "choosing the best wardrobe for an executive", "comparing gas mileage for different car models", "measuring pollution levels in a power plant" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Structured problems typically have ________ while unstructured problems typically have ________.",
+    "multipleChoice": [ "only one solution; many solutions", "many solutions; one solution", "many solutions; fewer solutions", "two solutions; three solutions" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Programmed decisions work well for solving ________.",
+    "multipleChoice": [ "structured problems", "unstructured problems", "both structured and unstructured problems", "poorly defined problems" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Programmed decisions draw heavily on which one of the following?",
+    "multipleChoice": [ "mistakes made in the past", "past solutions that were successful", "past solutions that were unsuccessful", "innovative, new solutions" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following is NOT a type of programmed decision?",
+    "multipleChoice": [ "systematic procedure", "policy", "brainstorm", "rule" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Following the directions to put together an elliptical exercise machine is an example of which way to solve a problem?",
+    "multipleChoice": [ "procedure", "rule", "general practice", "policy" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A football coach makes the decision to punt or not to punt on fourth down based on whether he is past his own 50-yard line. Which decision-making method does the coach use?",
+    "multipleChoice": [ "a policy", "a hunch", "a procedure", "a rule" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which pair of terms is correctly matched up?",
+    "multipleChoice": [ "structured problem, programmed decision", "structured problem, structured decision", "unstructured problem, programmed decision", "structured problem, nonprogrammed decision" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A judge consults guidelines before handing down an award for damages in a legal case. What kind of decision making is she doing?",
+    "multipleChoice": [ "following a policy", "following a rule", "programmed", "following a procedure" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Top managers in an organization tend to ________.",
+    "multipleChoice": [ "make programmed decisions", "solve structured problems", "make nonprogrammed decisions", "solve well-defined problems" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which three conditions do decision makers face?",
+    "multipleChoice": [ "certainty, risk, uncertainty", "certainty, uncertainty, confidence", "risk, high risk, low risk", "certainty, risk, high risk" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "In a condition of certainty, ________.",
+    "multipleChoice": [ "most outcomes are known", "the decision is already made", "all outcomes of all alternatives are known", "some alternatives are not known" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "If a car buyer knows the inventory dealer price of the same car at different dealerships, he or she is operating under what type of decision-making condition?",
+    "multipleChoice": [ "risk", "uncertainty", "certainty", "factual" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A retail clothing store manager who estimates how much to order for the current spring season based on last spring's outcomes is operating under what kind of decision-making condition?",
+    "multipleChoice": [ "seasonal", "risk", "uncertainty", "certainty" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "________ is a situation in which a decision maker has incomplete information about outcomes and does not have the ability to reasonably estimate outcomes that are not known.",
+    "multipleChoice": [ "Certainty", "Risk", "Uncertainty", "High certainty" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A low-level manager is most likely to solve problems under which condition?",
+    "multipleChoice": [ "certainty", "low risk", "uncertainty", "low certainty" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A top-level manager is most likely to solve problems under which condition?",
+    "multipleChoice": [ "certainty", "risk", "uncertainty", "high certainty" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A manager has a choice of three investment funds. To assess them, he looks at their investment records over the previous five years. The manager is operating under which condition?",
+    "multipleChoice": [ "certainty", "probability", "uncertainty", "risk" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "A manager has a choice of three bank CDs that pay different amounts of fixed interest over different time periods. The manager is operating under which condition?",
+    "multipleChoice": [ "jeopardy", "certainty", "uncertainty", "risk" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A manager wants to invest in one of three start-up companies. All three of the companies seem to have a good business plan. None of the companies has a track record. The manager is operating under which condition?",
+    "multipleChoice": [ "uncertainty", "certainty", "low certainty", "risk" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A key to what is commonly used to assess risk is for a decision maker to examine the ________ an investment.",
+    "multipleChoice": [ "promises made by a company for", "ads posted by a company for", "historical data for", "minor details of" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Managers in organizations make group decisions ________.",
+    "multipleChoice": [ "frequently", "never", "almost never", "rarely" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The eight steps of decision making ________.",
+    "multipleChoice": [ "can only be employed by individuals", "can only be employed in very small groups", "can be employed by individuals and groups", "can only be employed by groups" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "One advantage of group decision making is that it usually provides ________ than individual decision making.",
+    "multipleChoice": [ "faster decisions", "more ethical decisions", "less confusion", "more information" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Group decisions generally feature ________ acceptance than decisions made by an individual.",
+    "multipleChoice": [ "greater", "less", "neither greater nor less", "more enthusiastic" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Group decision making typically increases the legitimacy of a decision because the decision was made ________.",
+    "multipleChoice": [ "over a long period of time", "democratically", "by experts", "primarily by the group leader" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Decisions made by individuals typically suffer from suspicions that the decision maker ________.",
+    "multipleChoice": [ "is dishonest", "is not rational", "did not try to analyze the situation", "did not consult all interested parties" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Seeking the views of a diverse group of people can provide a decision maker with ________ on issues.",
+    "multipleChoice": [ "fresh perspectives", "conventional wisdom", "universal agreement", "a foolproof way to get the perfect answer" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following is a drawback to seeking diverse views in decision making?",
+    "multipleChoice": [ "less reliable decision", "easier decision-making process", "more time consuming", "less time consuming" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What tends to be the most successful group size?",
+    "multipleChoice": [ "10-25", "5-7", "12-25", "3-12" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Group decisions are usually ________ individual decisions.",
+    "multipleChoice": [ "more efficient than", "less efficient than", "equal in efficiency to", "more efficient but less effective than" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Since all members of a group are rarely equal in status, most groups suffer from ________.",
+    "multipleChoice": [ "minority domination", "majority domination", "too much diversity", "gridlock" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "________ can cause people in a group to fail to express their true opinions.",
+    "multipleChoice": [ "Ambiguous responsibility", "Group imbalance", "Pressure to conform", "Years of experience" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following is a primary characteristic of groupthink?",
+    "multipleChoice": [ "conflict among group members", "failure to reach consensus within a group", "complete conformity among group members", "candidness and openness within a group" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following is NOT a factor that can increase the probability of groupthink?",
+    "multipleChoice": [ "Influential group members dominate the discussion and the decision-making process.", "Group leaders stress the importance of consensus above all other concerns.", "The group has more than 40 group members.", "Group leaders solicit ideas from all group members without passing judgment on their ideas." ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following is NOT a way to minimize groupthink?",
+    "multipleChoice": [ "give the leader more power in making decisions", "encourage cohesion", "have an impartial leader", "foster open discussion" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following group techniques is relatively simple and is used exclusively to generate creative ideas in a group setting?",
+    "multipleChoice": [ "brainstorming", "nominal group technique", "groupthink", "electronic meetings" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following is NOT allowed in a brainstorming session?",
+    "multipleChoice": [ "clear definition of the problem", "criticism or dismissal of poor ideas", "large number of alternatives", "recording of all alternatives" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following group techniques allows group members to meet together, but at the same time facilitates independent decision making?",
+    "multipleChoice": [ "brainstorming", "nominal group technique", "large meetings of over 50 individuals", "small meetings of less than 10 individuals" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The ________ blends the nominal group technique with sophisticated computer technology.",
+    "multipleChoice": [ "personal meeting", "electronic meeting", "virtual meeting", "preliminary meeting" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What advantages does videoconferencing provide for group decision making?",
+    "multipleChoice": [ "anonymous expression of opinions", "less groupthink", "less minority domination", "savings on travel and time" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Mid-level managers in a country with high power distance are ________ than managers from a low power distance country.",
+    "multipleChoice": [ "more likely to make risky decisions", "less likely to make risky decisions", "less likely to make safe, conservative decisions", "more likely to disagree with their leaders' decisions" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Mid-level managers in a country with low uncertainty avoidance are ________ than managers from a high uncertainty avoidance country.",
+    "multipleChoice": [ "more likely to make risky decisions", "less likely to make risky decisions", "less likely to make foolish decisions", "more likely to avoid making decisions" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Individualistic countries like the United States tend to have ________ than group-oriented countries like Japan.",
+    "multipleChoice": [ "more conformity and more cooperation", "more conformity and less cooperation", "less conformity and more cooperation", "less conformity and less cooperation" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The use of ringisei in Japanese organizations reflects which one of the following values in Japanese culture?",
+    "multipleChoice": [ "tradition-following", "consensus-seeking", "risk taking", "go-it-alone" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "French management style tends to be ________ in style.",
+    "multipleChoice": [ "permissive", "group oriented", "rule following", "autocratic" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "When dealing with international organizations, managers must be ________ in order to accommodate the managing styles of different cultures.",
+    "multipleChoice": [ "as flexible as possible", "as inflexible as possible", "as strict as possible", "as thorough as possible" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "________ helps people find better solutions to problems using innovative problem-solving methods.",
+    "multipleChoice": [ "Planning", "Creativity", "Organization", "Structure" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "According to one study, about ________ of men and women were somewhat creative.",
+    "multipleChoice": [ "1 percent", "10 percent", "30 percent", "60 percent" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "One well-accepted model states that individual creativity requires ________, or a commanding understanding of a subject matter.",
+    "multipleChoice": [ "expertise", "task motivation", "high interest", "intuition" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following is NOT a characteristic of a creative problem solver?",
+    "multipleChoice": [ "self confidence", "tolerance for ambiguity", "frustrates easily", "accepts risks readily" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following traits do all creative people seem to share?",
+    "multipleChoice": [ "They like to save time.", "They get along well with others.", "They love their work.", "They don't like to work hard." ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following tends to impede a person's creativity?",
+    "multipleChoice": [ "providing time and resources", "clearly defined goals", "being watched while you work", "internal motivation" ],
+    "correctAnswerIndex": 2
+  },
+  
+
+    {
+      "questionText": "Organizational design requires a manager to ________.",
+      "multipleChoice": [
+        "decide who leads a group within an organization",
+        "change the culture of an organization",
+        "change or develop the structure of an organization",
+        "change the logo of an organization"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "All of the following are part of the process of organizational design EXCEPT ________.",
+      "multipleChoice": [
+        "deciding how specialized jobs should be",
+        "determining rules for employee behavior",
+        "determining the level at which decisions are made",
+        "determining goals for the organization"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Which one of the following pairs include items that are NOT basic elements of organizational design?",
+      "multipleChoice": [
+        "work specialization, span of control",
+        "chain of command, line authority",
+        "centralization, decentralization",
+        "departmentalization, formalization"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which one of the following is synonymous with work specialization?",
+      "multipleChoice": [
+        "division of labor",
+        "job discrimination",
+        "chain of command",
+        "job preference"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which statement accurately defines work specialization?",
+      "multipleChoice": [
+        "It is the degree to which tasks are grouped together.",
+        "Individual employees specialize in doing part of an activity rather than the entire activity.",
+        "Jobs are ranked relative only to their worth or value to the businesses.",
+        "Work specialization clarifies who reports to whom."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Early supporters of work specialization saw it as ________.",
+      "multipleChoice": [
+        "a reliable way to increase productivity",
+        "a good way to increase employee morale",
+        "a source of innovation",
+        "an immoral way to coerce workers into greater productivity"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Early users of work specialization in the early twentieth century found that the practice ultimately resulted in ________.",
+      "multipleChoice": [
+        "higher profits and better employee morale",
+        "bored workers with low morale",
+        "huge and permanent productivity gains",
+        "better communication among employees"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Today, managers favor this approach with regard to work specialization.",
+      "multipleChoice": [
+        "All tasks are performed by all employees to promote fairness.",
+        "Partners switch jobs every half hour to overcome boredom.",
+        "Employees specialize to maintain efficiency.",
+        "Monotonous tasks are shared by all employees to prevent perceived favoritism."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Functional departmentalization groups jobs by ________.",
+      "multipleChoice": [
+        "tasks they perform",
+        "territories they serve",
+        "products or services they manufacture or produce",
+        "type of customer they serve"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "______ departmentalization is based on territory or the physical location of employees or customers.",
+      "multipleChoice": [
+        "Functional",
+        "Product",
+        "Geographic",
+        "Matrix"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "A soap company that features a bath soap department, a laundry detergent department, and a dish soap department is using which one of the following?",
+      "multipleChoice": [
+        "Process departmentalization",
+        "Functional departmentalization",
+        "Product departmentalization",
+        "Customer departmentalization"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "What kind of departmentalization would be in place in a government agency in which there are separate departments that provide services for employers, employed workers, unemployed workers, and the disabled?",
+      "multipleChoice": [
+        "Product",
+        "Geographic",
+        "Outcome",
+        "Customer"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Health clinic offices usually use this kind of departmentalization.",
+      "multipleChoice": [
+        "Product",
+        "Functional",
+        "Customer",
+        "Process"
+      ],
+      "correctAnswerIndex": 3
+    },
+
+    {
+      "questionText": "The line of authority that extends from the upper levels of management to the lowest levels of the organization is termed the ________.",
+      "multipleChoice": [
+        "chain of responsibility",
+        "unity of command",
+        "staff authority",
+        "chain of command"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The chain of command answers this question.",
+      "multipleChoice": [
+        "Where do I go for help?",
+        "How do I know when the task is complete?",
+        "What are the rules?",
+        "Who reports to whom?"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Authority gives an individual the right to do this.",
+      "multipleChoice": [
+        "give orders",
+        "reprimand employees",
+        "command respect",
+        "obey orders"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "In the chain of command, each person above you ________.",
+      "multipleChoice": [
+        "has special privileges",
+        "receives higher pay",
+        "has line authority",
+        "has no right to give you orders"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Staff managers have authority over ________.",
+      "multipleChoice": [
+        "support employees only",
+        "line managers",
+        "middle managers",
+        "the person above them in the chain of command"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Line authority gives a manager the ability to direct the work of ________.",
+      "multipleChoice": [
+        "any employee in the firm",
+        "any subordinate",
+        "any subordinate, after consulting with the next higher level",
+        "only subordinates one level down"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "________ prevents a single employee from getting conflicting orders from two different superiors.",
+      "multipleChoice": [
+        "Line authority",
+        "Unity of command",
+        "Staff authority",
+        "Chain of command"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The importance of unity of command has diminished in today's workplace because of its tendency to be ________.",
+      "multipleChoice": [
+        "inflexible and inefficient",
+        "ethically questionable",
+        "chauvinistic and dictatorial",
+        "too decisive"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which one of the following statements is true?",
+      "multipleChoice": [
+        "Power is a right.",
+        "Authority is one's ability to influence decisions.",
+        "Authority is a right.",
+        "Both power and authority are rights."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "________ is the obligation or expectation to perform a duty.",
+      "multipleChoice": [
+        "Responsibility",
+        "Unity of command",
+        "Chain of command",
+        "Span of control"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The personal assistant of a top manager may have ________.",
+      "multipleChoice": [
+        "power but not authority",
+        "authority but not power",
+        "power and authority",
+        "line authority but not staff authority"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which one of the following statements is true?",
+      "multipleChoice": [
+        "Power is a type of authority.",
+        "Authority and power are identical.",
+        "Authority is a type of power.",
+        "Power is determined by horizontal position in an organization."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "As represented in a power cone, power is based on ________.",
+      "multipleChoice": [
+        "vertical position only",
+        "horizontal position only",
+        "distance from the center only",
+        "vertical position and distance from the center"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "As represented in a hierarchical organization diagram, authority is based on ________.",
+      "multipleChoice": [
+        "vertical position only",
+        "horizontal position only",
+        "distance from the center only",
+        "horizontal and vertical position"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "A construction site supervisor who sees an impending thunderstorm and tells workers to go home is demonstrating ________.",
+      "multipleChoice": [
+        "line authority",
+        "staff delegation",
+        "provisional accountability",
+        "unity of command"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "________ is the power that rests on the leader's ability to punish or control.",
+      "multipleChoice": [
+        "Reward power",
+        "Coercive power",
+        "Expert power",
+        "Referent power"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "A bank manager who passes out bonuses at the end of the year is exercising this.",
+      "multipleChoice": [
+        "reward power",
+        "coercive power",
+        "expert power",
+        "referent power"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Your firm's attorney has ________ power when giving legal advice.",
+      "multipleChoice": [
+        "legitimate",
+        "status",
+        "expert",
+        "coercive"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "________ is the power that arises when a person is close to another person who has great power and authority.",
+      "multipleChoice": [
+        "Expert power",
+        "Referent power",
+        "Reward power",
+        "Legitimate power"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "When a top manager decides to hire an individual over the objections of her staff, she is exercising which kind of power?",
+      "multipleChoice": [
+        "referent",
+        "expert",
+        "coercive",
+        "legitimate"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The traditional view holds that managers should directly supervise ________ subordinates.",
+      "multipleChoice": [
+        "no more than three",
+        "no more than six",
+        "around twelve",
+        "around twenty"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Modern managers find that they can ________ if their employees are experienced, well-trained, and motivated.",
+      "multipleChoice": [
+        "increase their span of control",
+        "decrease their span of control",
+        "eliminate their span of control",
+        "fluctuate their span of control"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "A traditional 'top down' organization is ________ organization.",
+      "multipleChoice": [
+        "a largely centralized",
+        "a largely decentralized",
+        "an absolutely decentralized",
+        "an absolutely centralized"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "________ reflects the degree to which decision making is distributed throughout the hierarchy rather than concentrated at the top.",
+      "multipleChoice": [
+        "Centralization",
+        "Span of control",
+        "Concentration",
+        "Decentralization"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "In recent years, organizations have become more ________ to be responsive to a dynamic business environment.",
+      "multipleChoice": [
+        "centralized",
+        "decentralized",
+        "structured",
+        "mechanistic"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "In today's decentralized business world, ________ the most important strategic decisions.",
+      "multipleChoice": [
+        "top managers still primarily make",
+        "middle managers make",
+        "lower-level managers make",
+        "nonmanagerial employees make"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "All of the following are characteristics of a highly formalized organization EXCEPT ________.",
+      "multipleChoice": [
+        "explicit job descriptions",
+        "little discretion for employees",
+        "minimum number of rules",
+        "a standardized way of doing things"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Today's managers are moving away from formalization and trying to be this.",
+      "multipleChoice": [
+        "more rigorous",
+        "more flexible",
+        "more strict",
+        "less permissive"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Today's managers expect employees to ________.",
+      "multipleChoice": [
+        "ignore rules for the most part",
+        "use discretion when it comes to following rules",
+        "faithfully follow rules even when it may harm the organization",
+        "make their own rules"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The jobs of assembly-line employees are to be changed to allow more tasks to be done by individual workers. This is a reduction in ________.",
+      "multipleChoice": [
+        "work specialization",
+        "departmentalization",
+        "chain of command",
+        "centralization"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Eric is offered a chance to help direct the efforts of some employees assigned to his work group. This is a chance for Eric to experience ________.",
+      "multipleChoice": [
+        "functional structure",
+        "divisional structure",
+        "responsibility",
+        "authority"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Eric sees this new assignment as an increase in ________, or an obligation or expectation for him to perform at a new level.",
+      "multipleChoice": [
+        "functional structure",
+        "divisional structure",
+        "responsibility",
+        "authority"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "A(n) ________ organization is able to change rapidly as needs require.",
+      "multipleChoice": [
+        "organic",
+        "hierarchical",
+        "vertical",
+        "mechanistic"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which term best describes an organic organization?",
+      "multipleChoice": [
+        "hierarchical",
+        "pyramid-shaped",
+        "flexible",
+        "fixed"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Which word best characterizes a mechanistic organization?",
+      "multipleChoice": [
+        "bureaucracy",
+        "collaborative",
+        "adaptable",
+        "informal"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Strategy, size, technology, and the degree of uncertainty in the environment together make up what are called ________.",
+      "multipleChoice": [
+        "contingency variables",
+        "control factors",
+        "structure variables",
+        "probable factors"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Together, contingency variables determine the ________.",
+      "multipleChoice": [
+        "success of an organization",
+        "culture of an organization",
+        "structure of an organization",
+        "size of an organization"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "A company that is trying to be a leader in innovation within its industry would be most likely to have this kind of structure.",
+      "multipleChoice": [
+        "mechanistic",
+        "organic",
+        "simple",
+        "functional"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Larger organizations tend to have ________ than smaller organizations.",
+      "multipleChoice": [
+        "more specialization",
+        "less departmentalization",
+        "less centralization",
+        "fewer rules and regulations"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "As an organization grows to a size of over 2,000 employees, it finds it hard to avoid becoming more ________.",
+      "multipleChoice": [
+        "mechanistic",
+        "organic",
+        "informal",
+        "adaptable"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Joan Woodward conducted pioneering studies on how this affected the structure of companies.",
+      "multipleChoice": [
+        "ethics",
+        "technology",
+        "values",
+        "corporate culture"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Recent studies on Woodward's initial research found that if the technology was nonroutine, this structure worked best.",
+      "multipleChoice": [
+        "mechanistic",
+        "traditional",
+        "inorganic",
+        "organic"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Woodward concluded that the least complex of the technologies was ________.",
+      "multipleChoice": [
+        "unit production",
+        "mass production",
+        "process production",
+        "quality production"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "In Woodward's study, this type of production was the most complex and the most sophisticated.",
+      "multipleChoice": [
+        "unit production",
+        "mass production",
+        "process production",
+        "technological production"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The greater the environmental uncertainty, the more an organization needs to become ________.",
+      "multipleChoice": [
+        "organic",
+        "mechanistic",
+        "stable",
+        "high-tech"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Traditional organizational designs tend to be more mechanistic and include ________.",
+      "multipleChoice": [
+        "simple, complex, and divisional structures",
+        "simple, functional, and dysfunctional structures",
+        "functional, divisional, and vertical structures",
+        "simple, functional, and divisional structures"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "A simple structure is ________ like a mechanistic organization, but ________ like an organic organization.",
+      "multipleChoice": [
+        "centralized; informal",
+        "informal; decentralized",
+        "decentralized; formal",
+        "centralized; formal"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "What is a strength of a simple structure?",
+      "multipleChoice": [
+        "Employees are grouped with others who have similar tasks.",
+        "Power and authority are widely distributed.",
+        "Accountability is clear.",
+        "There are cost-saving advantages from specialization."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "What is a weakness of a simple structure?",
+      "multipleChoice": [
+        "Duplication of activities and resources increases costs and reduces efficiency.",
+        "Functional specialists become insulated and have little understanding of what other units are doing.",
+        "Pursuit of functional goals can cause managers to lose sight of what is best for the overall organization.",
+        "Reliance on a single person is risky."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "This is a key characteristic in an organization with a functional structure.",
+      "multipleChoice": [
+        "adaptability",
+        "departmentalization",
+        "flexibility",
+        "little specialization"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "This is a weakness of a functional structure.",
+      "multipleChoice": [
+        "favoring functional goals over organizational goals",
+        "favoring organizational goals over functional goals",
+        "failing to attain functional goals",
+        "overemphasizing organizational goals"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Avoiding redundancy is a strength of which structure?",
+      "multipleChoice": [
+        "simple",
+        "divisional",
+        "functional",
+        "corporate"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "In a ________ structure each business unit has complete autonomy to reach its goals.",
+      "multipleChoice": [
+        "simple",
+        "functional",
+        "divisional",
+        "matrix"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "A media company that has separate, autonomous companies for movies, TV, Internet, and print journalism is most likely a ________ structure.",
+      "multipleChoice": [
+        "divisional",
+        "functional",
+        "simple",
+        "matrix"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Having separate payroll departments in each division of a divisional structure is an example of which one of the following?",
+      "multipleChoice": [
+        "efficiency, because payroll departments compete",
+        "duplication, because a single payroll department could do the job",
+        "effectiveness, because separate payroll departments create jobs",
+        "efficiency, because separate payroll departments can share methods of operation"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "As the number of employees in an organization grows, structure tends to become more ________.",
+      "multipleChoice": [
+        "bureaucratic",
+        "informal",
+        "decentralized",
+        "relaxed"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Looking for ways to make their organization more flexible and innovative, today's managers may choose this kind of structure.",
+      "multipleChoice": [
+        "simple",
+        "divisional",
+        "functional",
+        "team"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "In a team structure, team members ________.",
+      "multipleChoice": [
+        "are subject to decisions made by their supervisors",
+        "can influence decisions made by top managers",
+        "make decisions and are accountable for their decisions",
+        "make decisions only after first checking with management"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "All of the following are necessary for successful team structure EXCEPT ________.",
+      "multipleChoice": [
+        "well-trained team members",
+        "team members with cross-functional skills",
+        "team members with years of management experience",
+        "a fair and well-run team-based pay plan"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "In a ________, employees are recruited from functional departments to work on a specific project for a limited time period.",
+      "multipleChoice": [
+        "team structure",
+        "divisional structure",
+        "product structure",
+        "matrix structure"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "In a matrix structure, a group member will typically report to ________.",
+      "multipleChoice": [
+        "a project manager only",
+        "both a project manager and functional department head",
+        "a functional department head only",
+        "Group members are fully autonomous in a matrix structure, so they don't report to anyone."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "When a group member in a matrix structure finishes a project, he or she ________.",
+      "multipleChoice": [
+        "returns to his or her functional department",
+        "stays with the group to take on a new project",
+        "enters a pool of available employees from the entire organization",
+        "starts looking for a new job"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "By giving employees two direct superiors, a matrix structure violates this key element of organizational design.",
+      "multipleChoice": [
+        "unity of command",
+        "chain of command",
+        "span of management",
+        "decentralization"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "A key difference between a team structure and a matrix structure is that a team structure ________ while a matrix structure does not.",
+      "multipleChoice": [
+        "empowers group members",
+        "works on projects",
+        "has fairly permanent groups or teams",
+        "holds group members accountable"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "In a project structure, when employees finish a project they ________.",
+      "multipleChoice": [
+        "return to their department",
+        "return to a different division",
+        "move on to another project",
+        "return to their regular work"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Which one of the following areas has opened up new possibilities for how and where employees work?",
+      "multipleChoice": [
+        "information technology",
+        "human resources",
+        "organizational design",
+        "global competition"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Boundaryless organizations try to eliminate ________ within their organization.",
+      "multipleChoice": [
+        "horizontal specialization and vertical hierarchy",
+        "horizontal specialization only",
+        "vertical hierarchy only",
+        "vertical specialization only"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "A virtual organization is essentially ________ who come together for a particular project.",
+      "multipleChoice": [
+        "a group of employees from a single company",
+        "a group of free agents",
+        "a team of employees from different departments of a company",
+        "a group of top managers and CEOs"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "How does a virtual organization save on costs?",
+      "multipleChoice": [
+        "by hiring people who specialize in what they do",
+        "by hiring fewer people than they need and making them work much longer hours",
+        "by eliminating all administrative duties",
+        "by keeping only a small permanent staff for administrative purposes only"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "A ________ subcontracts part of a project to outside suppliers.",
+      "multipleChoice": [
+        "virtual organization",
+        "boundary organization",
+        "matrix structure",
+        "network organization"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "A building contractor follows the network organization model when he does which one of the following?",
+      "multipleChoice": [
+        "does the framing and tiling by himself",
+        "hires three workers to help with framing",
+        "gives orders to workers",
+        "farms out the plumbing to a plumbing firm"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Eric, who is trained as an engineer, is now in a group with production workers and marketing specialists from different departments designing a new product that the company plans to offer. This situation could be described as a(n) ________.",
+      "multipleChoice": [
+        "alternative assignment",
+        "collective assignment",
+        "advanced assignment",
+        "project assignment"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Which one of the following is the biggest concern when doing work at anytime and anywhere?",
+      "multipleChoice": [
+        "employee payroll",
+        "security",
+        "employee accountability",
+        "customer satisfaction"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Global competition forces firms to ________.",
+      "multipleChoice": [
+        "become lean, fast, and flexible",
+        "build up enormous cash reserves",
+        "think locally",
+        "become more hierarchical"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "A learning organization develops the capability to ________.",
+      "multipleChoice": [
+        "add new training programs to keep employees up to date",
+        "accept the conventional wisdom of the industry",
+        "continuously learn, adapt, and change",
+        "attract new employees who have special knowledge"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "A learning organization requires employees to ________.",
+      "multipleChoice": [
+        "encode information to prevent competitors from stealing ideas",
+        "collaborate with competitors",
+        "make all ideas public",
+        "share information and collaborate with one another"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "All of the following are characteristic of learning organizations EXCEPT ________.",
+      "multipleChoice": [
+        "a strong sense of community",
+        "a collaborative environment",
+        "managers who serve as facilitators",
+        "fear of making mistakes"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Organizational learning can't take place without ________.",
+      "multipleChoice": [
+        "complete privacy for employees",
+        "a clear chain of command",
+        "information",
+        "a stable structure or hierarchy"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "In a learning organization, it is important that all employees ________.",
+      "multipleChoice": [
+        "collaborate",
+        "study each night",
+        "have a strong sense of leadership",
+        "share the same vision for the organization"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Which one of the following is NOT a function of planning?",
+      "multipleChoice": [
+        "defining goals",
+        "identifying a strategy for attaining goals",
+        "settling disputes between employees",
+        "coordinating organizational activities"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Settling disputes is not a function of planning, making it the correct response."
+    },
+    {
+      "questionText": "Planning is concerned with ________.",
+      "multipleChoice": [
+        "both ends and means",
+        "ends only",
+        "means only",
+        "neither ends nor means"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Planning is concerned with goals or ends, as well as how those goals are reached or means."
+    },
+    {
+      "questionText": "In informal planning, goals are usually ________ shared with others in the organization.",
+      "multipleChoice": [
+        "written, but little is",
+        "unwritten, and little is",
+        "written, and much is",
+        "unwritten, but much is"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Informal planning rarely involves recording plans in written form and typically involves sharing plans with few others."
+    },
+    {
+      "questionText": "Informal planning is ________.",
+      "multipleChoice": [
+        "written and distributed to employees",
+        "general and usually lacks continuity",
+        "performed exclusively by middle managers",
+        "more specific than formal planning"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Informal plans are usually nonspecific and lack continuity."
+    },
+    {
+      "questionText": "In formal planning, ________.",
+      "multipleChoice": [
+        "specific goals covering a period of years are defined",
+        "to maximize flexibility, specific goals are never spelled out",
+        "very broad general goals are developed",
+        "goals may be written or unwritten"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Formal planning requires written plans and specific goals."
+    },
+    {
+      "questionText": "Which of the following is NOT a reason for managers to plan?",
+      "multipleChoice": [
+        "to give direction to an organization",
+        "to deal with change",
+        "to establish goals",
+        "to establish responsibility for mistakes"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Establishing responsibility for mistakes is not a function of planning."
+    },
+    {
+      "questionText": "Planning gives organizations direction that primarily helps them ________.",
+      "multipleChoice": [
+        "improve teamwork and coordinate activities",
+        "improve their image in the business community",
+        "improve morale of middle managers",
+        "improve morale of all employees"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Direction provides a common path for all employees, helping improve teamwork and coordination."
+    },
+    {
+      "questionText": "Planning gives organizations a way to deal with change that ________.",
+      "multipleChoice": [
+        "eliminates all uncertainty",
+        "reduces uncertainty",
+        "reduces certainty",
+        "increases ambiguity"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Planning helps organizations deal with uncertainty by reducing it."
+    },
+    {
+      "questionText": "Organizations that don't formally plan may be more likely to have ________.",
+      "multipleChoice": [
+        "corrupt managers",
+        "legal problems",
+        "multiple departments performing the same task",
+        "a single department carrying out all company functions"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Formal planning reduces redundancy, so organizations without formal plans may have multiple departments performing the same task."
+    },
+    {
+      "questionText": "One effect of planning on managers is that it forces them to ________.",
+      "multipleChoice": [
+        "fear change",
+        "anticipate and consider the effect of change",
+        "work to prevent change",
+        "ignore any change that doesn't directly affect them"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Planning requires managers to think systematically about the future and consider the effects of change."
+    },
+    {
+      "questionText": "Managers who fail to plan may ________.",
+      "multipleChoice": [
+        "take advantage of change",
+        "stimulate change",
+        "be positively affected by change",
+        "be adversely affected by change"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Managers who fail to plan are likely to be adversely affected by change."
+    },
+    {
+      "questionText": "Which one of the following is a frequently cited criticism of formal planning?",
+      "multipleChoice": [
+        "Plans lock organizations into rigid goals and timetables.",
+        "Plans take too long to create.",
+        "Plans create resentment within different levels of the organization.",
+        "Formal planning works well only for smaller companies."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "One criticism of formal planning is that it can lock organizations into rigid goals and timetables."
+    },
+    {
+      "questionText": "One criticism of formal planning is that it focuses on how to beat the competition rather than how to ________.",
+      "multipleChoice": [
+        "have cordial relationships with the competition",
+        "focus on new opportunities",
+        "balance the organization's budget",
+        "cooperate with the competition"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Critics argue that formal planning can make organizations focus too much on competition rather than new opportunities."
+    },
+    {
+      "questionText": "Failing to discard successful plans from the past is likely to lead to ________.",
+      "multipleChoice": [
+        "more success because conditions are unlikely to change in the future",
+        "failure because conditions are likely to change in the future",
+        "success because of the high quality of the plans",
+        "failure because of the low quality of the plans"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Failing to adapt successful plans to changing conditions can lead to failure as conditions change."
+    },
+    {
+      "questionText": "Studies of performance in organizations that plan have reached ________ with respect to the benefits of formal planning.",
+      "multipleChoice": [
+        "somewhat negative conclusions",
+        "no conclusion",
+        "extremely negative conclusions",
+        "generally positive conclusions"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Studies generally conclude that formal planning has positive benefits for organizational performance."
+    },
+    {
+      "questionText": "Studies of planning show that the key to successful planning is to make sure that the plans ________.",
+      "multipleChoice": [
+        "cover every possible detail",
+        "are high in quality",
+        "are exceedingly simple to follow",
+        "are not shared with employees"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "In studies in which formal planning did not lead to higher performance, ________ usually the culprit.",
+      "multipleChoice": [
+        "unforeseen events in the environment were",
+        "demanding employees were",
+        "stubborn ownership was",
+        "lack of communication was"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Formal planning typically leads to which one of the following?",
+      "multipleChoice": [
+        "higher profits",
+        "lower productivity",
+        "higher sales, but lower profits",
+        "tension between different management levels"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The first step in the six-step strategic management process is to ________.",
+      "multipleChoice": [
+        "analyze the organization's strengths and weaknesses",
+        "identify the organization's mission",
+        "identify feasible strategies",
+        "analyze the opportunities the organization has"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The first three steps of the strategic management process involve ________ strategies.",
+      "multipleChoice": [
+        "planning",
+        "implementing",
+        "evaluating",
+        "identifying"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "A mission statement includes identification of an organization's ________.",
+      "multipleChoice": [
+        "strengths and weaknesses",
+        "purpose and basic philosophy",
+        "assets and resources",
+        "resources and strengths"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "A mission statement does NOT include which of the following?",
+      "multipleChoice": [
+        "the customers of a company",
+        "major competitors",
+        "why the company is in business and what it hopes to accomplish",
+        "the company's basic beliefs"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "An external analysis, the second step of the strategic management process, helps identify ________.",
+      "multipleChoice": [
+        "the products that a company makes",
+        "the long-term goals of a company",
+        "a company's opportunities and threats",
+        "a company's concern for its employees"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "An internal analysis, the third step of the strategic management process, helps identify ________.",
+      "multipleChoice": [
+        "opportunities and threats",
+        "resources and capabilities",
+        "opportunities and possibilities",
+        "values and philosophy"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which term refers to an organization's capital, workers, and patents?",
+      "multipleChoice": [
+        "resources",
+        "capabilities",
+        "abilities",
+        "core competencies"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "An organization's resources identify ________.",
+      "multipleChoice": [
+        "how the organization gets things done",
+        "where the organization operates",
+        "when the organization operates",
+        "what the organization has"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "An organization's capabilities identify ________.",
+      "multipleChoice": [
+        "what the organization knows",
+        "who the organization is",
+        "assets that the organization can rely on",
+        "what the organization can do"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Together, an organization's resources and core competencies make up which one of the following?",
+      "multipleChoice": [
+        "core philosophy",
+        "competitive weapons",
+        "core assets",
+        "fundamental beliefs"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "SWOT analysis identifies and analyzes an organization's ________.",
+      "multipleChoice": [
+        "strengths, weaknesses, opportunities, and threats",
+        "strategy for competing in the market",
+        "human resource assets",
+        "long-term goals"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "SWOT analysis combines ________.",
+      "multipleChoice": [
+        "a company's mission with its goals",
+        "external and internal analyses",
+        "a company's philosophy with its ethics",
+        "profit with productivity"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Once SWOT analysis is complete, managers ________ to address the issues that came up during the analysis.",
+      "multipleChoice": [
+        "formulate strategies",
+        "implement strategies",
+        "evaluate strategies",
+        "eliminate strategies"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which one of the following do managers NOT typically use to formulate strategies?",
+      "multipleChoice": [
+        "finding ways to exploit the organization's strengths",
+        "finding ways to protect the organization from external threats",
+        "finding ways to rule out existing organizational opportunities",
+        "finding ways to correct organizational weaknesses"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The three different types of strategies that managers implement are ________.",
+      "multipleChoice": [
+        "corporate, private, functional",
+        "corporate, competitive, functional",
+        "long-term, short-term, public",
+        "competitive, noncompetitive, corporate"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "A corporate strategy focuses primarily on ________.",
+      "multipleChoice": [
+        "an organization's mission",
+        "an organization's strengths",
+        "an organization's weaknesses",
+        "an organization's people"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which one of the following makes up the three main types of corporate strategies?",
+      "multipleChoice": [
+        "growth, vertical integration, horizontal integration",
+        "growth, retrenchment, renewal",
+        "renewal, retrenchment, diversification",
+        "growth, stability, renewal"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Growth strategies include ________.",
+      "multipleChoice": [
+        "diversification, concentration, integration, stabilization",
+        "vertical integration, horizontal integration, concentration, diversification",
+        "vertical integration, horizontal integration, lateral integration, horizontal concentration",
+        "integration, renewal, horizontal diversification, vertical diversification"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "General Mills expanding its line so that it sells several different types of Cheerios is an example of which one of the following?",
+      "multipleChoice": [
+        "concentration",
+        "horizontal integration",
+        "vertical integration",
+        "diversification"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "A salad dressing company that buys a large olive grove to produce olive oil is practicing which one of the following?",
+      "multipleChoice": [
+        "concentration",
+        "forward vertical integration",
+        "backward vertical integration",
+        "horizontal integration"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "A sneaker company creating its own stores where it sells only its own brand is an example of which of the following?",
+      "multipleChoice": [
+        "forward vertical integration",
+        "backward horizontal integration",
+        "forward horizontal integration",
+        "reverse vertical integration"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "In forward vertical integration, a company becomes its own ________, while in backward vertical integration, the company is its own ________.",
+      "multipleChoice": [
+        "supplier; distributor",
+        "supplier; customer",
+        "distributor; monitor",
+        "distributor; supplier"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "61) Two movie studios combining to form one larger studio is an example of which one of the following?",
+      "multipleChoice": [ "A) forward vertical integration", "B) horizontal integration", "C) backward vertical integration", "D) diversification" ],
+      "correctAnswerIndex": 1
+
+    },
+    {
+      "questionText": "62) Which one of the following functional areas has become a new important strategic element for companies such as Walmart?",
+      "multipleChoice": [ "A) quality control", "B) benchmarking", "C) social media", "D) big data" ],
+      "correctAnswerIndex": 3
+
+    },
+    {
+      "questionText": "63) When Google purchased YouTube, a company that featured different, but related products, Google was engaging in which of the following?",
+      "multipleChoice": [ "A) concentration", "B) forward vertical integration", "C) backward vertical integration", "D) diversification" ],
+      "correctAnswerIndex": 3
+
+    },
+    {
+      "questionText": "64) Two companies that both sell fine timepieces combine. What are they doing?",
+      "multipleChoice": [ "A) diversifying, because they both sell the same products", "B) integrating vertically, because they both sell the same products", "C) integrating vertically in a backward direction, because they are sharing distribution", "D) integrating horizontally, because they both sell similar products" ],
+      "correctAnswerIndex": 3
+
+    },
+    {
+      "questionText": "65) A company whose goal is to retain its ideal size and market share is employing which kind of strategy?",
+      "multipleChoice": [ "A) noncorporate", "B) growth", "C) renewal", "D) stability" ],
+      "correctAnswerIndex": 3
+
+    },
+    {
+      "questionText": "66) Troubled companies seek ________ to address serious problems.",
+      "multipleChoice": [ "A) competitive strategies", "B) corporate strategies", "C) vertical and horizontal strategies", "D) renewal strategies" ],
+      "correctAnswerIndex": 3
+
+    },
+    {
+      "questionText": "67) To address minor performance problems, a company is most likely to employ a ________ strategy.",
+      "multipleChoice": [ "A) retrenchment", "B) turnaround", "C) doomsday", "D) self-critical" ],
+      "correctAnswerIndex": 0
+
+    },
+    {
+      "questionText": "68) A company that is on the verge of collapse or bankruptcy might employ this strategy.",
+      "multipleChoice": [ "A) retrenchment", "B) incremental improvement", "C) turnaround", "D) hunker down" ],
+      "correctAnswerIndex": 2
+
+    },
+    {
+      "questionText": "69) Remedies that all renewal strategies employ include which of the following?",
+      "multipleChoice": [ "A) hiring efficiency experts", "B) new ad campaigns", "C) emulating competitors", "D) cutting costs" ],
+      "correctAnswerIndex": 3
+
+    },
+    {
+      "questionText": "70) The ________ strategy occupies the level below the corporate strategy.",
+      "multipleChoice": [ "A) business unit", "B) competitive", "C) functional", "D) performance" ],
+      "correctAnswerIndex": 1
+
+    },
+    {
+      "questionText": "71) A diversified corporation is likely to have ________.",
+      "multipleChoice": [ "A) multiple competitive strategies", "B) a single competitive strategy", "C) no more than two competitive strategies", "D) thousands of competitive strategies" ],
+      "correctAnswerIndex": 0
+
+    },
+    {
+      "questionText": "72) The thing that makes your product special is known as your ________.",
+      "multipleChoice": [ "A) assets", "B) destruction device", "C) competitive advantage", "D) core device" ],
+      "correctAnswerIndex": 2
+
+    },
+    {
+      "questionText": "73) Competitive advantages for a high-prestige, premium coffee franchise like Starbucks are likely to include all of the following EXCEPT ________.",
+      "multipleChoice": [ "A) high quality", "B) lowest prices", "C) well-trained employees", "D) pleasant venues" ],
+      "correctAnswerIndex": 1
+
+    }
+
+
+
+  ]
+
+
+
+
+ 
+

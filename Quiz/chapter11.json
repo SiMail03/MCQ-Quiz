@@ -1,0 +1,772 @@
+[
+  {
+    "questionText": "Which one of the following best defines organizational behavior?",
+    "multipleChoice": [
+      "the actions of organizations in the workplace",
+      "the study of the workplace",
+      "the study of organizations",
+      "the study of the actions of people at work"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Hidden aspects of an organization that OB provides insight into include ________.",
+    "multipleChoice": [
+      "strategies",
+      "attitudes",
+      "structure",
+      "objectives"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following is a visible aspect of an organization?",
+    "multipleChoice": [
+      "attitudes",
+      "interpersonal conflicts",
+      "intergroup conflicts",
+      "objectives"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Organizational behavior focuses on ________.",
+    "multipleChoice": [
+      "individual and group behavior as well as organizational aspects",
+      "group behavior only",
+      "individual behavior only",
+      "neither group behavior nor individual behavior"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The goals of organizational behavior include ________.",
+    "multipleChoice": [
+      "to explain, document, and control behavior",
+      "to control and influence behavior",
+      "to explain, predict, and influence behavior",
+      "to predict, understand, and document behavior"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "When managers influence employee behavior, they ________.",
+    "multipleChoice": [
+      "predict what employees will do",
+      "steer it in a particular direction",
+      "understand why a behavior occurs",
+      "try not to change a behavior"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "All of the following are included in the six behaviors that managers try to explain, predict, and influence EXCEPT ________.",
+    "multipleChoice": [
+      "productivity and absenteeism",
+      "workplace attitudes and perceptions",
+      "workplace misbehavior and turnover",
+      "organizational citizenship behavior and job satisfaction"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "This 'behavior' is really an attitude.",
+    "multipleChoice": [
+      "job satisfaction",
+      "turnover",
+      "workplace misbehavior",
+      "employee productivity"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Of the six behaviors that managers focus on, which behavior typically is the most troubling to an organization?",
+    "multipleChoice": [
+      "job satisfaction",
+      "workplace misbehavior",
+      "organizational citizenship behavior",
+      "employee productivity"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "________ is a performance measure of both efficiency and effectiveness of employees.",
+    "multipleChoice": [
+      "Employee productivity",
+      "Organizational citizenship behavior",
+      "Job satisfaction",
+      "Turnover"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The three elements that make up an attitude are its ________ components.",
+    "multipleChoice": [
+      "cognitive, affective, and behavioral",
+      "affective, effective, and defective",
+      "cognitive, component, and affective",
+      "behavioral, cognitive, and misbehavioral"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The component of attitude that is made up of knowledge and information is ________.",
+    "multipleChoice": [
+      "cognitive",
+      "behavioral",
+      "affective",
+      "practices"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "When you stand at attention during the playing of the national anthem, you are revealing which component of your attitude toward your country?",
+    "multipleChoice": [
+      "cognitive",
+      "affective",
+      "metacognitive",
+      "behavioral"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The ________ component of attitude is based on emotions.",
+    "multipleChoice": [
+      "cognitive",
+      "behavioral",
+      "affective",
+      "action"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "After spending several hours looking over an architect's plans, Juanita formed a new impression for a new building design. Which component of attitude did she change?",
+    "multipleChoice": [
+      "affective",
+      "behavioral",
+      "emotive",
+      "cognitive"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "After carefully examining the architect's plans yesterday, today Juanita has decided that she loves the new design. Which component of forming an attitude did she carry out today?",
+    "multipleChoice": [
+      "cognitive",
+      "affective",
+      "behavioral",
+      "informational"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "After deciding that she likes the architect's new building design this morning, this afternoon Juanita has decided to go ahead with the project. Which component of attitude did she use this afternoon?",
+    "multipleChoice": [
+      "A) cognitive",
+      "B) behavioral",
+      "C) emotive",
+      "D) affective"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "In everyday use, the term attitude refers only to the ________ component of attitude.",
+    "multipleChoice": [
+      "A) cognitive",
+      "B) informational",
+      "C) behavioral",
+      "D) affective"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "A manager would most likely be interested in employees' attitudes about which one of the following?",
+    "multipleChoice": [
+      "A) family responsibility",
+      "B) personal responsibility",
+      "C) job satisfaction",
+      "D) past jobs"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The degree to which an employee identifies with his or her job or actively participates in it refers to the employee's ________.",
+    "multipleChoice": [
+      "A) job involvement",
+      "B) organizational commitment",
+      "C) global commitment",
+      "D) job satisfaction"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "An employee who brags about her company to friends and recommends all company products as gifts is likely to have high ________.",
+    "multipleChoice": [
+      "A) job involvement",
+      "B) organizational commitment",
+      "C) personal commitment",
+      "D) organizational citizenship"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "With respect to employee engagement in a job, ________ seems to be the most important factor to employees around the world.",
+    "multipleChoice": [
+      "A) base pay",
+      "B) respect",
+      "C) benefits",
+      "D) type of work"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following would you expect to see in a company that has highly engaged employees?",
+    "multipleChoice": [
+      "A) lower employee retention rates",
+      "B) greater employee retention rates",
+      "C) a diverse workforce",
+      "D) a homogeneous workforce"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Generally, most people try to achieve ________ between their attitudes and their behavior.",
+    "multipleChoice": [
+      "A) contrast",
+      "B) synergy",
+      "C) functionality",
+      "D) consistency"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Cognitive dissonance theory states that a person feels ________ when his or her attitudes and actions don't match.",
+    "multipleChoice": [
+      "A) comfortable",
+      "B) uncomfortable",
+      "C) confused",
+      "D) confident"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The cognitive dissonance theory proposes that the factors that can mitigate the discomfort caused by dissonance are ________.",
+    "multipleChoice": [
+      "A) importance, influence, and rewards",
+      "B) influence, rewards, and goals",
+      "C) importance, goals, and status",
+      "D) influence, reinforcement, and rewards"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A person who is being hypocritical about something that has high importance in her life would be likely to experience ________ discomfort from cognitive dissonance.",
+    "multipleChoice": [
+      "A) low",
+      "B) no",
+      "C) high",
+      "D) minimal"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A person who is experiencing cognitive dissonance might justify the dissonance if he has ________ control over his actions.",
+    "multipleChoice": [
+      "A) some",
+      "B) total",
+      "C) almost total",
+      "D) little or no"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Taking a job in a repressive country that you disapprove of politically might cause discomfort from dissonance unless ________.",
+    "multipleChoice": [
+      "A) the job suits you well",
+      "B) the job offers enormous pay",
+      "C) the job offers little pay",
+      "D) the job does not suit you well"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "After the disappointment of not getting a new, highly desired position in a company, an employee states, \"That job looks like a real headache, anyway.\" This is an example of ________ to reduce discomfort from dissonance.",
+    "multipleChoice": [
+      "A) reducing importance",
+      "B) increasing importance",
+      "C) reducing influence",
+      "D) increasing influence"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which one of the following is typically the most important reason for why managers want to increase positive job attitudes?",
+    "multipleChoice": [
+      "A) lower rates of turnover and absenteeism",
+      "B) higher rates of turnover and absenteeism",
+      "C) to decrease worker unhappiness",
+      "D) to increase worker happiness"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Studies show that the statement, \"Happy workers are productive workers,\" is ________.",
+    "multipleChoice": [
+      "A) completely false",
+      "B) completely true",
+      "C) fairly true",
+      "D) largely false"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "To reduce dissonance in the workplace, managers are advised to hold ________ responsible for the causes of the dissonance.",
+    "multipleChoice": [
+      "A) employees",
+      "B) both employees and management",
+      "C) fellow workers",
+      "D) external forces"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Rather than try to make employees happy, managers might do well to focus on making work ________.",
+    "multipleChoice": [
+      "A) easy to accomplish",
+      "B) challenging and interesting",
+      "C) challenging and difficult",
+      "D) simple rather than complex"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "________ is the unique combination of psychological traits that describe a person.",
+    "multipleChoice": [
+      "A) Character",
+      "B) Intelligence",
+      "C) Behavior",
+      "D) Personality"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The Myers-Briggs Type Indicator® (MBTI®) is based on ________ that are revealed in a 100-item questionnaire.",
+    "multipleChoice": [
+      "A) two dimensions",
+      "B) four dimensions",
+      "C) four personality types",
+      "D) eight personality types"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The extroversion versus introversion scale on the Myers-Briggs Type Indicator® determines whether a person is oriented ________.",
+    "multipleChoice": [
+      "A) outwardly or inwardly",
+      "B) toward gathering data or the big picture",
+      "C) logically or emotionally",
+      "D) toward planning or flexibility"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The judging versus perceiving scale on the Myers-Briggs Type Indicator® determines whether a person is oriented ________.",
+    "multipleChoice": [
+      "A) outwardly or inwardly",
+      "B) toward gathering data or the big picture",
+      "C) toward planning or flexibility",
+      "D) logically or emotionally"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The thinking versus feeling scale on the Myers-Briggs Type Indicator® determines whether a person is oriented ________.",
+    "multipleChoice": [
+      "A) logically or emotionally",
+      "B) toward gathering data or the big picture",
+      "C) outwardly or inwardly",
+      "D) toward planning or flexibility"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The sensing versus intuition scale on the Myers-Briggs Type Indicator® determines whether a person is oriented ________.",
+    "multipleChoice": [
+      "A) outwardly or inwardly",
+      "B) toward gathering data or the big picture",
+      "C) logically or emotionally",
+      "D) toward planning or flexibility"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "If you are a person who dislikes making plans, you would probably score high on which aspect of the Myers-Briggs Type Indicator®?",
+    "multipleChoice": [
+      "extrovert rather than introvert",
+      "introvert rather than extrovert",
+      "judging rather than perceiving",
+      "perceiving rather than judging"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "If you are a person who prefers to focus on gut feelings when you make a decision, you would probably score high on which aspect of the Myers-Briggs Type Indicator®?",
+    "multipleChoice": [
+      "sensing rather than intuition",
+      "intuition rather than sensing",
+      "thinking rather than feeling",
+      "feeling rather than thinking"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The Big Five model of personality includes all of the following EXCEPT ________.",
+    "multipleChoice": [
+      "extroversion",
+      "agreeableness",
+      "conscientiousness",
+      "intuitiveness"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Job studies show that the Big Five personality dimension of ________ was consistently important for success no matter what the job type.",
+    "multipleChoice": [
+      "extraversion",
+      "conscientiousness",
+      "openness to experience",
+      "emotional stability"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Surprisingly, studies show that emotional stability is ________.",
+    "multipleChoice": [
+      "positively related to job performance",
+      "not positively related to happiness",
+      "positively related to job type",
+      "not positively related to job performance"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Emotional intelligence includes all of the following EXCEPT ________.",
+    "multipleChoice": [
+      "cognitive skills",
+      "self-awareness",
+      "self-management",
+      "social skills"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "This dimension of emotional intelligence allows people to sense and understand how others are feeling.",
+    "multipleChoice": [
+      "self-awareness",
+      "self-management",
+      "empathy",
+      "social skills"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A person who takes full responsibility in both his or her successes and failures is likely to have a(n) ________.",
+    "multipleChoice": [
+      "high self-awareness",
+      "low self-management",
+      "external locus of control",
+      "internal locus of control"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Bell Lab and Air Force studies have shown that emotional intelligence is ________ job performance.",
+    "multipleChoice": [
+      "not important to",
+      "almost as important as academic intellect in",
+      "equally important as academic intellect in",
+      "more important than academic intellect in"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "If you believe that you control your own destiny, then your personality would be described as having a(n) ________.",
+    "multipleChoice": [
+      "external locus of control",
+      "high Mach score",
+      "low Mach score",
+      "internal locus of control"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "A tennis player who blames a loss on windy conditions would be likely to have ________.",
+    "multipleChoice": [
+      "an external locus of control",
+      "an internal locus of control",
+      "no locus of control",
+      "high self-monitoring"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A person who believes that the \"ends justify the means\" would be likely to have a high level of which personality trait?",
+    "multipleChoice": [
+      "empathy",
+      "Machiavellianism",
+      "self-awareness",
+      "social skills"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "This kind of individual might be most likely to have legal problems.",
+    "multipleChoice": [
+      "low Mach",
+      "high Mach",
+      "low self-esteem",
+      "risk-averse"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "High self-esteem individuals tend to ________.",
+    "multipleChoice": [
+      "make excuses for themselves",
+      "avoid creating high expectations",
+      "take risks",
+      "avoid risks"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "________ individuals tend to be dependent on positive evaluation from others.",
+    "multipleChoice": [
+      "High self-esteem",
+      "High Mach",
+      "Low self-esteem",
+      "Internal locus of control"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A high self-monitoring individual would tend to ________.",
+    "multipleChoice": [
+      "have no skill in playing different roles",
+      "have no skill in hiding his or her feelings",
+      "be good at playing different roles",
+      "have no experience in hiding his or her feelings"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A low self-monitoring individual would NOT tend to pursue a career as ________.",
+    "multipleChoice": [
+      "an actor",
+      "a scientist",
+      "an accountant",
+      "an engineer"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A manager who takes very little time to make a decision probably has the trait of ________.",
+    "multipleChoice": [
+      "high self-esteem",
+      "external locus of control",
+      "low self-monitoring",
+      "high risk-taking"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "A NASCAR race car driver would be a good occupational match for which personality type?",
+    "multipleChoice": [
+      "risk averse",
+      "risk taker",
+      "low Mach",
+      "low self-esteem"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "John Holland's theory assumes all of the following EXCEPT ________.",
+    "multipleChoice": [
+      "different types of jobs are suited to different personalities",
+      "people in jobs that suit their personality are likely to be more satisfied",
+      "there are intrinsic personality differences in people",
+      "people in jobs that suit their personality make more money"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "A person who rates high on Holland's social scale would probably find a good match with which of the following jobs?",
+    "multipleChoice": [
+      "farmer",
+      "painter",
+      "teacher",
+      "mathematician"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A person rating high on the investigative personality type would have the best match with which job?",
+    "multipleChoice": [
+      "nurse",
+      "mechanic",
+      "reporter",
+      "counselor"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "According to Holland's social scale, becoming a lawyer would be a good job match for someone with this personality type.",
+    "multipleChoice": [
+      "Realistic",
+      "Investigative",
+      "Conventional",
+      "Enterprising"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following pairs would be a good match in Holland's scheme?",
+    "multipleChoice": [
+      "Realistic: psychologist",
+      "Investigative: golf pro",
+      "Social: coach",
+      "Artistic: chemist"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Chinese workers tend to value ________ than Americans.",
+    "multipleChoice": [
+      "Hard work more",
+      "Conscientiousness less",
+      "Agreeableness less",
+      "Agreeableness more"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "North Americans seem to be much more likely to have ________ than people from Middle Eastern countries.",
+    "multipleChoice": [
+      "An internal locus of control",
+      "An external locus of control",
+      "No locus of control",
+      "A variable locus of control"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Managers in Germany and the United States would probably agree that the most important factor for job performance is ________.",
+    "multipleChoice": [
+      "Agreeableness",
+      "Conscientiousness",
+      "Social skills",
+      "Emotional stability"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "________ is the process of organizing and interpreting sensory impressions to give meaning to the environment.",
+    "multipleChoice": [
+      "Attribution",
+      "Selection",
+      "Learning",
+      "Perception"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Different people typically have ________.",
+    "multipleChoice": [
+      "The same perception of a single situation",
+      "The same perception of different situations",
+      "Different perceptions of the same situation",
+      "An undistorted perception of a situation"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which three factors act to shape and sometimes distort perception?",
+    "multipleChoice": [
+      "The perceiver, target, context",
+      "Attitudes, past experiences, expectations",
+      "Temperature, time, location",
+      "Past experiences, context, location"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Factors that can influence the perceiver of a situation include ________.",
+    "multipleChoice": [
+      "Temperature, time, location",
+      "Attitudes, past experiences, expectations",
+      "Size, shape, color",
+      "Lighting, place, date"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which situation would be an example of the target influencing a perception?",
+    "multipleChoice": [
+      "Viewing a dog through binoculars",
+      "Viewing a dog when you are exhausted",
+      "A dog barking",
+      "Near dark conditions"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Attribution theory is primarily concerned with explaining ________.",
+    "multipleChoice": [
+      "The behavior of groups",
+      "One's own perceptions",
+      "The behavior of others",
+      "The perceptions of others"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "In attribution theory, ________ behavior is largely beyond an individual's control.",
+    "multipleChoice": [
+      "Externally caused",
+      "Internally caused",
+      "Consistent",
+      "Inconsistent"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "In attribution theory, if everyone who is faced with a similar situation responds in the same way, we can say the behavior shows ________.",
+    "multipleChoice": [
+      "Consensus",
+      "High distinctiveness",
+      "Low distinctiveness",
+      "Medium distinctiveness"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "In attribution theory, if a person is conscientious in five separate tasks, but in the sixth task fails to be conscientious, this task is said to have ________.",
+    "multipleChoice": [
+      "Low distinctiveness",
+      "High distinctiveness",
+      "High consensus",
+      "Low consensus"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "In attribution theory, the behavior of an individual who shows low distinctiveness and low consensus is likely to be attributed as ________.",
+    "multipleChoice": [
+      "Internally caused",
+      "Externally caused",
+      "Beyond his or her control",
+      "Not his or her fault"
+    ],
+    "correctAnswerIndex": 0
+  }
+]

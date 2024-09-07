@@ -1,0 +1,462 @@
+[
+  {
+    "questionText": "Yanis noticed that the beach where he lives has become overrun with trash, and he has developed a machine that will 'walk' the beach to pick up the trash. We could classify Yanis as a ________.",
+    "multipleChoice": [ "social engineer", "social entrepreneur", "profiteer", "developer" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Patel launched a lawn care business, sold it after two years, started a transportation business to serve those in his community who do not drive, sold it to one of his employees, and started a micro-loan business, which he plans to sell within five years. We could classify Patel as a(n) ________ entrepreneur.",
+    "multipleChoice": [ "necessity", "opportunity", "serial", "portfolio" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Ramon lost his job during the Great Recession. After taking inventory of his assets and skill set, he launched a small engine repair service from his garage. We could classify Ramon as a(n) ________ entrepreneur.",
+    "multipleChoice": [ "necessity", "opportunity", "serial", "portfolio" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "An entrepreneurial venture and a small business ________.",
+    "multipleChoice": [ "are superficially similar", "are identical", "have nothing in common", "are impossible to tell apart" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "One key difference between an entrepreneurial venture and a small business is that the entrepreneurial venture focuses on ________.",
+    "multipleChoice": [ "productivity", "efficiency", "quality", "innovation" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "When it was first starting out, the Viking Range company qualified as an entrepreneurial organization because its products were ________.",
+    "multipleChoice": [ "high in quality", "expensive", "innovative and different", "loved by serious cooks" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Besides being innovative in some way, a second defining characteristic of an entrepreneurial venture is that it is ________.",
+    "multipleChoice": [ "small in size", "focused on growth", "dedicated to quality", "original and creative" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "An 'accidental entrepreneur' is someone who became an entrepreneur because he or she ________.",
+    "multipleChoice": [ "always had a dream to start a company", "lost his or her job", "identified a great opportunity", "quit his or her job" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "In the wake of high unemployment, statistics show that entrepreneurship is ________.",
+    "multipleChoice": [ "low", "high", "falling", "neither rising nor falling" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "After five years, ________ of entrepreneurial ventures are still in business.",
+    "multipleChoice": [ "fewer than half", "about one-third", "more than three-fourths", "about two-thirds" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "In most cases, the first step in the initial (pre-planning) phase of the entrepreneurial process is this.",
+    "multipleChoice": [ "planning the venture", "identifying potential opportunities", "exploring finance options", "researching the venture's feasibility" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following is typically involved in exploring the entrepreneurial context of a new venture?",
+    "multipleChoice": [ "researching the venture's feasibility", "uncovering business ideas", "exploring finance options", "pinpointing potential competitive advantages" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Uncovering business ideas, looking at competitors, and exploring financing options are part of this phase of the entrepreneurial process.",
+    "multipleChoice": [ "identifying competitive advantage", "exploring business forms", "researching the venture's feasibility", "identifying potential opportunities" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "________ is an important part of researching a firm's feasibility.",
+    "multipleChoice": [ "Exploring finance options", "Researching the legal business forms", "Pinpointing potential competitive advantages", "Identifying potential opportunities" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Early in the planning phase of an entrepreneurial venture, ________ is accomplished.",
+    "multipleChoice": [ "selecting a legal business organization form", "stating a mission", "selecting an organizational design", "performing a copyright search" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "During the organizing phase of an entrepreneurial venture, an entrepreneur ________.",
+    "multipleChoice": [ "states a mission", "selects a legal business organization form", "creates a business plan", "selects an organizational design" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "After the startup has been planned and organized, the next step is ________.",
+    "multipleChoice": [ "prototyping the product or service", "creating a top management team", "financing the venture", "launching the venture" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "During the launching of a venture, which one of the following is accomplished?",
+    "multipleChoice": [ "creating a top management team", "establishing a mission", "setting goals and strategies", "patenting the product or service" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Once an entrepreneurial venture is actually up and running, the entrepreneur switches to a ________ role.",
+    "multipleChoice": [ "managerial", "ceremonial figurehead", "background", "subordinating" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "According to Peter Drucker, which one of the following is a source of opportunities for entrepreneurs?",
+    "multipleChoice": [ "changes in interest rates", "changes in unemployment", "changes in perception", "changes in GDP" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Samovar has an idea for a new business. He is currently engaged in identifying potential competitors to determine what they offer, how they market their products, and what their competitive advantages may be. Samovar is ________.",
+    "multipleChoice": [ "conducting a SWOT analysis", "generating ideas", "applying for financing", "conducting a feasibility study" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "A(n) ________ is the simplest and briefest type of business plan.",
+    "multipleChoice": [ "synopsis-type plan", "full business plan", "summary business plan", "executive summary" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The ________ of a business plan should include the mission statement and primary goals of the organization as well as a brief description of the product or service.",
+    "multipleChoice": [ "summary business plan", "executive summary", "synopsis-type plan", "full business plan" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Information about the size of the target market will be found in the ________ in the business plan.",
+    "multipleChoice": [ "analysis of opportunity", "description of the business", "executive summary", "supporting documentation" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "This is the most complete and comprehensive type of business plan.",
+    "multipleChoice": [ "executive summary", "full business plan", "summary business plan", "synopsis-type plan" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A brief mission statement of an entrepreneurial venture would be included in this section of a full business plan.",
+    "multipleChoice": [ "analysis of opportunity", "description of the business", "executive summary", "analysis of the context" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "This section of a full business plan would include possible income statements for the next three years.",
+    "multipleChoice": [ "financial data and projections", "executive summary", "analysis of opportunity", "description of the business" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Identification of the organization's key personnel would be included in this section of a full business plan.",
+    "multipleChoice": [ "analysis of the context", "analysis of opportunity", "description of the business", "executive summary" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "This section of a full business plan would include a description of the demographics of the target market for the organization.",
+    "multipleChoice": [ "description of the business", "financial data and projections", "executive summary", "analysis of opportunity" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "This section of a full business plan would include an assessment of the industry of the venture and how it fits into the overall economic climate.",
+    "multipleChoice": [ "analysis of context", "description of the business", "financial data and projections", "analysis of opportunity" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Marva wants to be in control of her destiny. If she were to launch her own business, she would be most likely to prefer the ________ form of ownership.",
+    "multipleChoice": [ "Sole proprietorship", "LLP", "C corporation", "S corporation" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Granval is concerned about the risks involved in launching a new business, especially the financial risks. If he chooses the sole proprietorship form of ownership, his liability is ________.",
+    "multipleChoice": [ "shared with his creditors", "shared with his investors", "limited to the amount of his taxes", "unlimited" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Granval thinks a partnership will reduce his personal financial responsibility. This is true only if ________.",
+    "multipleChoice": [ "Granval is not the general partner", "the other partners agree to it", "the articles of incorporation stipulate the percentages of liability of each partner", "there are no more than 10 partners" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Belor has been invited to become a limited partner in a new business. Belor feels that if he is putting up some of the money to launch the business, he should have some say in how it is managed. This can happen only if ________.",
+    "multipleChoice": [ "Belor provides more than 50% of the capital", "Belor becomes a general partner", "there are fewer than 10 partners", "the partnership agreement names Belor as CEO" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Tamaya is ready to launch her new business but needs more money. Although she has a high credit rating, she does not want to 'max out' all her credit cards. You advise her to select ________.",
+    "multipleChoice": [ "an S corporation because she does not expect to ever have more than 75 partners", "a sole proprietorship so she does not have to share the profits with anyone", "a limited liability partnership so she can share the burden of financing the new business", "a C corporation so she can sell stock immediately" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "One of the most important factors influencing the organizational success of a new venture is ________.",
+    "multipleChoice": [ "recruitment", "retention", "compensation", "culture" ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The form of legal ownership that an entrepreneur chooses for a venture primarily affects these concerns.",
+    "multipleChoice": [ "profit and productivity", "taxes and liability", "liability and planning", "taxes and revenue" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Entrepreneurs should take great care when choosing a form of legal ownership because once one form is chosen, it is ________ to change it to another form.",
+    "multipleChoice": [ "impossible", "very difficult", "easy", "rather embarrassing" ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which one of the following is NOT a way to organize an entrepreneurial venture?",
+    "multipleChoice": [ "partnership", "corporation", "cooperative association", "sole proprietorship" ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Many small entrepreneurial firms don't have a deliberately planned organizational structure because ________.",
+    "multipleChoice": [ "they are inefficient", "small firms never need structure", "the IRS prevents them from having a structure", "one person does 'everything'" ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "In general, an entrepreneurial venture that sees ________ as its competitive advantage would tend to be ________ in structure.",
+    "multipleChoice": [
+      "efficiency; organic",
+      "efficiency; informal",
+      "innovation; mechanistic",
+      "innovation; informal"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "An entrepreneurial venture whose goal is to create humorous video games would be likely to be ________.",
+    "multipleChoice": [
+      "very organic in structure",
+      "highly centralized",
+      "fairly mechanistic in structure",
+      "very mechanist in structure"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "When hiring, entrepreneurs are more likely to make sure that these two elements are a good match than traditional HRM managers.",
+    "multipleChoice": [
+      "job skills and organizational needs",
+      "job qualifications and organizational requirements",
+      "formal job training and organizational requirements",
+      "values and organizational culture"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "At an entrepreneurial organization, job candidates are more likely to hear about ________ than they will at conventional organizations.",
+    "multipleChoice": [
+      "benefits",
+      "monetary compensation",
+      "advancement through the ranks",
+      "learning opportunities"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which one of the following statements regarding an \"entrepreneurial personality\" is true?",
+    "multipleChoice": [
+      "Finding a set of personality traits for an entrepreneurial personality is much easier than for leaders.",
+      "Finding a set of personality traits for an entrepreneurial personality is more difficult than for leaders.",
+      "There is no specific set of personality traits that all entrepreneurs share.",
+      "There has been research on this topic as to date."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which one of the following terms does not fit the classic profile of the successful entrepreneur?",
+    "multipleChoice": [
+      "high energy",
+      "reflective",
+      "persistent",
+      "resourceful"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "In general, entrepreneurs tend to ________ more than the average person.",
+    "multipleChoice": [
+      "cut corners",
+      "take risks",
+      "avoid risks",
+      "avoid cutting corners"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A person with a proactive personality is someone who ________.",
+    "multipleChoice": [
+      "takes action",
+      "avoids taking action",
+      "is entrepreneurial",
+      "is not entrepreneurial"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "People who become entrepreneurs often have ________.",
+    "multipleChoice": [
+      "family money",
+      "no family money",
+      "family members who are entrepreneurs",
+      "no family members who are entrepreneurs"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Perhaps the best predictor of whether or not a person will become an entrepreneur is how ________ she is.",
+    "multipleChoice": [
+      "proactive",
+      "talented",
+      "likeable",
+      "desperate"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The key to the proactive personality is that a proactive person feels that he or she can ________ any environment.",
+    "multipleChoice": [
+      "adapt to",
+      "change",
+      "be successful in",
+      "be well liked in"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A proactive person would be most likely to say this about his or her life.",
+    "multipleChoice": [
+      "I feel trapped.",
+      "If I don't like something, I fix it.",
+      "If I don't like something, I learn to live with it.",
+      "I like to leave well enough alone."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "With respect to entrepreneurship, a proactive person is best described as someone who has skill in identifying ________.",
+    "multipleChoice": [
+      "a problem",
+      "trouble",
+      "a good idea",
+      "a good opportunity"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "In general, employee empowerment ________ motivation in employees.",
+    "multipleChoice": [
+      "increases",
+      "slightly decreases",
+      "strongly decreases",
+      "has no effect on"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The typical reason for why an entrepreneur considers implementing employee empowerment in an organization is to make sure that the organization ________.",
+    "multipleChoice": [
+      "stays nimble and flexible",
+      "is profitable",
+      "stays small and informal",
+      "is efficient"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Entrepreneurs who have trouble delegating authority should go through the process of empowering employees ________.",
+    "multipleChoice": [
+      "gradually",
+      "all at once",
+      "using a rigid timetable",
+      "hastily"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The best way for a hesitant entrepreneur to begin the process of employee empowerment is to ________.",
+    "multipleChoice": [
+      "give employees complete decision-making power immediately",
+      "use participative decision making",
+      "let the employees decide how much decision-making power they will have",
+      "order employees to start making decisions"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A leader of an entrepreneurial organization is like a jazz band leader because he or she ________.",
+    "multipleChoice": [
+      "controls every \"note\" that the performers \"play\"",
+      "wants a happy and harmonious workplace",
+      "has no influence over what the performers \"play\"",
+      "works to draw the \"best\" out of every performer"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "An entrepreneur's ability to be a visionary is important because visionary companies tend to ________.",
+    "multipleChoice": [
+      "have employees who are satisfied with their jobs",
+      "be larger than nonvisionary companies",
+      "be more successful than nonvisionary companies",
+      "be more organic than nonvisionary companies"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A ________ type of work team has the most autonomy.",
+    "multipleChoice": [
+      "cross-functional",
+      "problem solving",
+      "self-directed",
+      "virtual"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "This type of work team has authority to implement the changes it recommends.",
+    "multipleChoice": [
+      "empowered",
+      "cross-functional",
+      "problem solving",
+      "self-directed"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "This type of work team is composed of specialists.",
+    "multipleChoice": [
+      "empowered",
+      "problem solving",
+      "self-directed",
+      "cross-functional"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "An entrepreneur should ________ a plan for dealing with an economic downturn ________ any downturn occurs.",
+    "multipleChoice": [
+      "create; when",
+      "have; in place before",
+      "write out; after",
+      "think out; while"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Harvesting an entrepreneurial venture occurs when the venture ________.",
+    "multipleChoice": [
+      "has a hit product",
+      "is successful",
+      "is sold",
+      "becomes profitable"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "To avoid problems in their personal lives, entrepreneurs need to become excellent time managers and ________.",
+    "multipleChoice": [
+      "treat all needs equally",
+      "prioritize what needs to be done",
+      "wait to see what needs can be ignored",
+      "handle all needs long before they are needed"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "This is one of the best ways for entrepreneurs to deal with especially difficult work-related or personal problems.",
+    "multipleChoice": [
+      "read self-help books",
+      "consult trusted employees",
+      "develop a network of trusted peers",
+      "consult relatives and family members"
+    ],
+    "correctAnswerIndex": 2
+  }
+]
